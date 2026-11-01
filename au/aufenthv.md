@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 12 Abs. 9 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2004-11-25'
 quelle: https://www.gesetze-im-internet.de/aufenthv/
 doknr: BJNR294510004
-builddate: '20261027220053'
+builddate: '20261031220014'
 ---
 
 # Aufenthaltsverordnung (AufenthV)
@@ -1597,7 +1597,7 @@ sind unbeschadet der Mitteilungspflichten nach § 87 Abs. 2, 4 und 5 des Aufenth
 - 7\. Anschrift,
 - 8\. zum Zweck der eindeutigen Zuordnung die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 2 Nummer 4 des AZR-Gesetzes.
 
-<!-- norm id="BJNE007303116" -->
+<!-- norm id="BJNE007304311" -->
 ##### § 72 Mitteilungen der Meldebehörden
 
 (1) Die Meldebehörden teilen den Ausländerbehörden mit
@@ -1607,6 +1607,7 @@ sind unbeschadet der Mitteilungspflichten nach § 87 Abs. 2, 4 und 5 des Aufenth
 - 3\. die Änderung der Hauptwohnung,
 - 4\. die Eheschließung oder die Begründung einer Lebenspartnerschaft, die Scheidung, Nichtigerklärung oder Aufhebung der Ehe, die Aufhebung der Lebenspartnerschaft,
 - 5\. die Namensänderung,
+- 5a\. die Änderung der Geschlechtsangabe, wenn sie ohne Änderung des Namens erfolgt,
 - 6\. die Änderung oder Berichtigung des staatsangehörigkeitsrechtlichen Verhältnisses,
 - 7\. die Geburt,
 - 8\. den Tod,

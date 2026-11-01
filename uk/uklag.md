@@ -7,7 +7,7 @@ stand: zuletzt geändert durch Art. 5 G v. 22.6.2026 I Nr. 191
 ausfertigung: '2001-11-26'
 quelle: https://www.gesetze-im-internet.de/uklag/
 doknr: BJNR317300001
-builddate: '20260626215520'
+builddate: '20261031220015'
 ---
 
 # Gesetz über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen (UKlaG)
@@ -47,7 +47,7 @@ Wer in Allgemeinen Geschäftsbedingungen Bestimmungen, die nach den §§ 307 bis
 
 Wer in anderer Weise als durch Verwendung oder Empfehlung von Allgemeinen Geschäftsbedingungen den Vorschriften des § 271a Absatz 1 bis 3, des § 286 Absatz 5 oder des § 288 Absatz 6 des Bürgerlichen Gesetzbuchs zuwiderhandelt, kann auf Unterlassung in Anspruch genommen werden.
 
-<!-- norm id="BJNE002509129" -->
+<!-- norm id="BJNE002511360" -->
 ### § 2 Ansprüche bei verbraucherschutzgesetzwidrigen Praktiken
 
 (1) Wer in anderer Weise als durch Verwendung oder Empfehlung von Allgemeinen Geschäftsbedingungen Vorschriften zuwiderhandelt, die dem Schutz der Verbraucher dienen (Verbraucherschutzgesetze), kann im Interesse des Verbraucherschutzes auf Unterlassung und Beseitigung in Anspruch genommen werden. Werden die Zuwiderhandlungen in einem Unternehmen von einem Mitarbeiter oder Beauftragten begangen, so ist der Unterlassungsanspruch oder der Beseitigungsanspruch auch gegen den Inhaber des Unternehmens begründet. Bei Zuwiderhandlungen gegen die in Absatz 2 Nummer 13 genannten Vorschriften richtet sich der Beseitigungsanspruch nach den entsprechenden datenschutzrechtlichen Vorschriften.
@@ -93,7 +93,7 @@ Wer in anderer Weise als durch Verwendung oder Empfehlung von Allgemeinen Gesch�
 - 26\. die Artikel 1 bis 35 der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1; L 16 vom 20.1.2011, S. 1; L 94 vom 10.4.2015, S. 9; L 349 vom 21.12.2016, S. 1; L 190 vom 27.7.2018, S. 20; L 55 vom 25.2.2019, S. 18; L 117 vom 3.5.2019, S. 8), die zuletzt durch die Delegierte Verordnung (EU) 2021/1962 (ABl. L 400 vom 12.11.2021, S. 16) geändert worden ist, in der jeweils geltenden Fassung,
 - 27\. die §§ 20a, 36, 40 bis 41, 41b, 42, 53a und 111a des Energiewirtschaftsgesetzes,
 - 28\. die Vorschriften des Zahlungsdiensteaufsichtsgesetzes, die das Verhältnis zwischen E-Geldinstituten und Verbrauchern regeln,
-- 29\. die §§ 4 und 5 des Energieverbrauchsrelevante-Produkte-Gesetzes,
+- 29\. die §§ 8, 9, 11 und 13 Absatz 3 und 4 des Ökodesign-Gesetzes,
 - 30\. die §§ 1a, 6a, 7 bis 9, 59 Absatz 1 Satz 2 und 3 und Absatz 4 Satz 2, die §§ 152, 154 und 155, auch in Verbindung mit den §§ 176 und 177 Absatz 1 des Versicherungsvertragsgesetzes,
 - 31\. die VVG-Informationspflichtenverordnung,
 - 32\. die Vorschriften der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See (ABl. L 131 vom 28.5.2009, S. 24), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung,

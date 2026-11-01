@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 8 Abs. 7 G v. 23.7.2026 I Nr. 226
 ausfertigung: '2012-05-10'
 quelle: https://www.gesetze-im-internet.de/envkg_2012/
 doknr: BJNR107010012
-builddate: '20260825220005'
+builddate: '20261031220008'
 ---
 
 # Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Personenkraftwagen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen (EnVKG)
@@ -36,7 +36,7 @@ Quelle: <https://www.gesetze-im-internet.de/envkg_2012/>
 <!-- gliederung id="BJNG000100118" ebene="1" -->
 ## Abschnitt 1 Allgemeine Vorschriften
 
-<!-- norm id="BJNE000203123" -->
+<!-- norm id="BJNE000204123" -->
 ### § 1 Anwendungsbereich
 
 (1) Dieses Gesetz ist anzuwenden für die Kennzeichnung von neu in Verkehr gebrachten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie Kohlendioxid-Emissionen mittels Verbrauchskennzeichnung, sonstigen Produktinformationen und Angaben in der Werbung und in sonstigen Werbeinformationen. Neben den Angaben im Sinne des Satzes 1 sind auch Angaben über die Auswirkungen von Produkten auf den Verbrauch an Energie und auf andere wichtige Ressourcen vom Anwendungsbereich dieses Gesetzes erfasst.
@@ -45,129 +45,104 @@ Quelle: <https://www.gesetze-im-internet.de/envkg_2012/>
 
 - 1\. gebrauchte Produkte,
 - 2\. Etiketten, Beschriftungen, Leistungsschilder oder sonstige Informationen und Zeichen, die aus Sicherheitsgründen an Produkten angebracht werden, und
-- 3\. Produkte, die ausschließlich zur Verwendung für militärische Zwecke bestimmt sind.
+- 3\. Produkte, die einzig der Verteidigung oder der nationalen Sicherheit dienen.
 
-<!-- norm id="BJNE000303123" -->
-### § 2 Begriffsbestimmungen
+<!-- norm id="BJNE000302128" -->
+### § 2 Begriffsbestimmungen und damit zusammenhängende Regelungen
 
-Im Sinne dieses Gesetzes
+(1) Im Sinne dieses Gesetzes ist beziehungsweise sind
 
-- 1\. ist Produkt der Oberbegriff für
-  - a) energieverbrauchsrelevante Produkte; dies umfasst Gegenstände, deren Nutzung den Verbrauch von Energie beeinflusst und die in Verkehr gebracht oder in Betrieb genommen werden, einschließlich Produktteile, die
-    - aa) zum Einbau in ein energieverbrauchsrelevantes Produkt bestimmt sind,
-    - bb) als Einzelteile für Endverbraucher in Verkehr gebracht werden oder in Betrieb genommen werden und
-    - cc) getrennt auf ihre Umweltverträglichkeit geprüft werden können;
-  - b) Kraftfahrzeuge im Sinne des Artikels 2 Nummer 1 der Richtlinie 1999/94/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 über die Bereitstellung von Verbraucherinformationen über den Kraftstoffverbrauch und CO₂-Emissionen beim Marketing für neue Personenkraftwagen (ABl. L 12 vom 18.1.2000, S. 16), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist;
-  - c) Reifen im Sinne der Artikel 2 und 3 Nummer 1 der Verordnung (EG) Nr. 1222/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere wesentliche Parameter (ABl. L 342 vom 22.12.2009, S. 46), die zuletzt durch die Verordnung (EU) Nr. 228/2011 (ABl. L 62 vom 9.3.2011, S. 1) geändert worden ist;
-- 2\. ist Verordnung der Europäischen Union
-  - a) ein delegierter Rechtsakt in der Rechtsform der Verordnung im Sinne des Artikels 10 der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates vom 19. Mai 2010 über die Angabe des Verbrauchs an Energie und anderen Ressourcen durch energieverbrauchsrelevante Produkte mittels einheitlicher Etiketten und Produktinformationen (ABl. L 153 vom 18.6.2010, S. 1) oder
-  - b) die Verordnung (EG) Nr. 1222/2009;
-- 3\. ist Verbrauchskennzeichnung  
-  die Kennzeichnung von Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie über CO₂-Emissionen und mit sonstigen zusätzlichen Angaben mittels einheitlicher Etiketten, Aufkleber oder Hinweise;
-- 4\. sind sonstige Produktinformationen  
-  Materialien, wie Datenblätter, Aushänge am Verkaufsort oder Leitfäden, die Informationen über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie über CO₂-Emissionen oder zusätzliche Angaben enthalten;
-- 5\. sind zusätzliche Angaben  
-  weitere Angaben über die Leistung und die Merkmale eines Produkts, die sich auf dessen Verbrauch an Energie, den Verbrauch an anderen wichtigen Ressourcen oder den CO₂-Ausstoß beziehen oder die für die Beurteilung des Verbrauchers von Nutzen sind und auf messbaren Daten beruhen;
-- 6\. sind sonstige Werbeinformationen
-  - a) technische Werbematerialien im Sinne des Artikels 3 Nummer 4 der Verordnung (EG) Nr. 1222/2009;
-  - b) die in einer Rechtsverordnung nach § 4 geregelten technischen Werbeschriften, Werbematerialien und Werbeschriften;
-- 7\. gilt als Wirtschaftsakteur  
-  der Lieferant, der Hersteller des Kraftfahrzeugs, deren Bevollmächtigter oder bevollmächtigter Vertreter, der Importeur und der Händler von Produkten;
-- 8\. gilt als Lieferant der Hersteller oder dessen Bevollmächtigter in der Europäischen Union oder im Europäischen Wirtschaftsraum oder der Importeur, der das energieverbrauchsrelevante Produkt oder den Reifen in der Europäischen Union oder im Europäischen Wirtschaftsraum in Verkehr bringt oder das energieverbrauchsrelevante Produkt in Betrieb nimmt; in Ermangelung dessen gilt als Lieferant jede natürliche oder juristische Person, die das energieverbrauchsrelevante Produkt oder den Reifen in Verkehr bringt oder das energieverbrauchsrelevante Produkt in Betrieb nimmt;
-- 9\. ist Hersteller des Kraftfahrzeugs  
-  der in der Zulassungsbescheinigung Teil I genannte Hersteller oder, wenn dieser nicht in Deutschland ansässig ist, dessen bevollmächtigter Vertreter;
-- 10\. ist Bevollmächtigter oder bevollmächtigter Vertreter  
-  jede in der Europäischen Union oder einem Vertragsstaat des Europäischen Wirtschaftsraums ansässige natürliche oder juristische Person, die der Hersteller schriftlich beauftragt hat, in seinem Namen bestimmte Aufgaben wahrzunehmen, um seine Verpflichtungen nach diesem Gesetz und der einschlägigen Gesetzgebung der Europäischen Union zu erfüllen;
-- 11\. ist Importeur  
-  jede in der Europäischen Union oder einem Vertragsstaat des Europäischen Wirtschaftsraums ansässige natürliche oder juristische Person, die ein Produkt aus einem Staat, der nicht der Europäischen Union oder dem Europäischen Wirtschaftsraum angehört, in Verkehr bringt;
-- 12\. ist Händler
-  - a) jede natürliche oder juristische Person, die ein energieverbrauchsrelevantes Produkt dem Endverbraucher zum Kauf, zum Abschluss eines Mietvertrages oder ähnlicher entgeltlicher Gebrauchsüberlassung anbietet oder ausstellt;
-  - b) jede natürliche oder juristische Person in der Lieferkette, die Reifen im Sinne des Artikels 3 Nummer 9 der Verordnung (EG) Nr. 1222/2009 auf dem Markt bereitstellt, mit Ausnahme des Lieferanten oder des Importeurs;
-  - c) jede natürliche oder juristische Person, die in Deutschland neue Kraftfahrzeuge im Sinne von Nummer 1 Buchstabe b ausstellt oder zum Kauf oder Leasing anbietet;
-- 13\. ist Bereitstellung auf dem Markt  
-  jede entgeltliche oder unentgeltliche Abgabe eines Produkts zum Vertrieb, Verbrauch oder zur Verwendung auf dem Markt der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum im Rahmen einer Geschäftstätigkeit;
-- 14\. ist Inverkehrbringen  
-  die erstmalige entgeltliche oder unentgeltliche Bereitstellung eines Produkts auf dem Markt der Europäischen Union oder in einem der Vertragsstaaten des Europäischen Wirtschaftsraums zum Vertrieb oder zur Verwendung des Produkts innerhalb der Europäischen Union, unabhängig von der Art des Vertriebs;
-- 15\. ist Anbieten  
-  das Anbieten eines Produkts zum Kauf, zum Abschluss eines Mietvertrages oder ähnlicher entgeltlicher Gebrauchsüberlassung an den Endverbraucher;
-- 16\. ist Ausstellen  
-  das Aufstellen oder Vorführen von Produkten für den Endverbraucher am Verkaufsort zu Werbezwecken;
-- 17\. ist Rückruf  
-  jede Maßnahme, die darauf abzielt, die Rückgabe eines dem Endverbraucher bereitgestellten Produkts zu erwirken;
-- 18\. ist Rücknahme  
-  jede Maßnahme, mit der verhindert werden soll, dass ein Produkt, das sich in der Lieferkette befindet, auf dem Markt bereitgestellt wird;
-- 19\. ist Marktüberwachung  
-  jede von den zuständigen Behörden durchgeführte Tätigkeit und von ihnen getroffene Maßnahme, durch die sichergestellt werden soll, dass ein Produkt mit den Anforderungen dieses Gesetzes übereinstimmt;
-- 20\. ist Marktüberwachungsbehörde  
-  jede Behörde, die für die Durchführung der Marktüberwachung zuständig ist;
-- 21\. ist akkreditierte Konformitätsbewertungsstelle  
-  eine Stelle, die Konformitätsbewertungen einschließlich Kalibrierungen, Prüfungen, Zertifizierungen und Inspektionen durchführt und über eine Akkreditierung einer nationalen Akkreditierungsstelle nach Artikel 4 Absatz 1 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) verfügt;
-- 22\. ist notifizierte Stelle  
-  eine Stelle, die Konformitätsbewertungen durchführt und der Europäischen Kommission von einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum auf Grund eines europäischen Rechtsaktes mitgeteilt worden ist;
-- 23\. sind öffentlich bestellte und vereidigte Sachverständige  
-  Sachverständige im Sinne der §§ 36 und 36a der Gewerbeordnung;
-- 24\. sind die für die Kontrolle der Außengrenzen zuständigen Behörden  
-  die Zollbehörden gemäß § 17 Absatz 2 Satz 2 des Zollverwaltungsgesetzes;
-- 25\. ist Tankstelle eine öffentliche Tankanlage mit Personal, an der über eine ortsfeste Vorrichtung Kraftstoffe für Personenkraftwagen abgegeben werden können;
-- 26\. ist Mehrproduktzapfsäule eine Anlage zur Abgabe des Kraftstoffes, die mehrere Kraftstoffarten über getrennte Zapfventile bereitstellen kann; dabei ist unerheblich, ob an der Mehrproduktzapfsäule ein oder mehrere Kraftfahrzeuge gleichzeitig tanken können;
-- 27\. ist Energiekostenvergleich die Darstellung der auf Kostenbasis normierten Energieverbrauchsangaben;
-- 28\. ist Tankstellenbetreiber, wer die tatsächliche oder rechtliche Möglichkeit hat, die notwendigen Entscheidungen im Hinblick auf die Anzeige des Energiekostenvergleiches gemäß der Anlage zu treffen.
+- 1\. „Produkt“: der Oberbegriff für
+  - a) energieverbrauchsrelevante Produkte nach Artikel 2 Nummer 1 der Verordnung (EU) 2017/1369,
+  - b) Personenkraftwagen nach Artikel 2 Nummer 1 der Richtlinie 1999/94/EG und
+  - c) Reifen nach den Artikeln 2 und 3 Nummer 1 der Verordnung (EU) 2020/740,
+- 2\. „Verordnung der Europäischen Union“:
+  - a) die Verordnung (EU) 2017/1369,
+  - b) ein delegierter Rechtsakt in der Rechtsform einer Verordnung auf Grund von Artikel 16 der Verordnung (EU) 2017/1369 und
+  - c) die Verordnung (EU) 2020/740,
+- 3\. „Verbrauchskennzeichnung“: die Kennzeichnung eines Produkts mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie über Kohlenstoffdioxid-Emissionen und mit sonstigen zusätzlichen Angaben mittels einheitlicher Etiketten, Aufkleber oder Hinweise,
+- 4\. „sonstige Produktinformationen“: Materialien, wie Datenblätter, Aushänge am Verkaufsort oder Leitfäden, die Informationen über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie über Kohlenstoffdioxid-Emissionen oder zusätzliche Angaben enthalten,
+- 5\. „zusätzliche Angaben“: weitere Angaben über die Leistung und die Merkmale eines Produkts, die sich auf dessen Verbrauch an Energie, den Verbrauch an anderen wichtigen Ressourcen oder den Kohlenstoffdioxid-Ausstoß beziehen oder die für die Beurteilung des Verbrauchers von Nutzen sind und auf messbaren Daten beruhen,
+- 6\. „sonstige Werbeinformationen“:
+  - a) technisches Werbematerial nach Artikel 3 Nummer 7 der Verordnung (EU) 2020/740 und
+  - b) sonstige Werbung, soweit sie visuell wahrnehmbar ist,
+- 7\. „Hersteller eines Personenkraftwagens“: der in der Übereinstimmungsbescheinigung genannte Hersteller oder, wenn dieser Hersteller nicht in Deutschland ansässig ist, dessen bevollmächtigter Vertreter in Deutschland,
+- 8\. „Händler eines Personenkraftwagens“: jede natürliche oder juristische Person, die gewerblich Personenkraftwagen nach Nummer 1 Buchstabe b ausstellt, zum Kauf, zur Langzeitmiete oder zum Leasing anbietet,
+- 9\. „Anbieten“: das Anbieten eines Produkts zum Kauf, zum Abschluss eines Mietvertrages oder ähnlicher entgeltlicher Gebrauchsüberlassungen an den Kunden, Errichter oder Endnutzer,
+- 10\. „Ausstellen“: das Aufstellen oder Vorführen von Produkten für den Kunden, Errichter oder Endnutzer am Verkaufsort zu Werbezwecken,
+- 11\. „akkreditierte Konformitätsbewertungsstelle“: eine Stelle nach Artikel 2 Nummer 13 der Verordnung (EG) Nr. 765/2008, die über eine Akkreditierung nach Artikel 4 Absatz 1 der Verordnung (EG) Nr. 765/2008 verfügt,
+- 12\. „notifizierte Stelle“: eine Stelle, die Konformitätsbewertungen durchführt und der Europäischen Kommission von einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum auf Grund eines europäischen Rechtsaktes mitgeteilt worden ist,
+- 13\. „öffentlich bestellte und vereidigte Sachverständige“: Sachverständige im Sinne der §§ 36 und 36a der Gewerbeordnung,
+- 14\. „die für die Kontrolle der Außengrenzen zuständigen Behörden“: die Zollbehörden nach § 17 Absatz 2 des Zollverwaltungsgesetzes,
+- 15\. „Tankstelle“: eine Anlage nach Artikel 2 Nummer 59 der Verordnung (EU) 2023/1804,
+- 16\. „Zapfstelle“: eine Einrichtung nach Artikel 2 Nummer 56 der Verordnung (EU) 2023/1804,
+- 17\. „Energiekostenvergleich“: die Darstellung der auf Kostenbasis normierten Energieverbrauchsangaben,
+- 18\. „Betreiber einer Tankstelle“: eine Stelle nach Artikel 2 Nummer 40 der Verordnung (EU) 2023/1804,
+- 19\. „Anbieter einer Hosting-Plattform im Internet“: jede natürliche oder juristische Person, die Dienste der Informationsgesellschaft im Sinne von Artikel 3 Buchstabe g Ziffer iii der Verordnung (EU) 2022/2065 anbietet,
+- 20\. „KI-System“: ein System nach Artikel 3 Nummer 1 der Verordnung (EU) 2024/1689.
+
+(2) Ergänzend zu den Begriffsbestimmungen nach Absatz 1 gelten
+
+- 1\. für Produkte nach Absatz 1 Nummer 1 Buchstabe a die Begriffsbestimmungen nach Artikel 2 der Verordnung (EU) 2017/1369 und nach Artikel 3 der Verordnung (EU) 2019/1020 und
+- 2\. für Produkte nach Absatz 1 Nummer 1 Buchstabe c die Begriffsbestimmungen nach Artikel 3 der Verordnung (EU) 2020/740.
 
 <!-- gliederung id="BJNG000200118" ebene="1" -->
 ## Abschnitt 2 Neu in Verkehr gebrachte Produkte
 
-<!-- norm id="BJNE000403123" -->
+<!-- norm id="BJNE000402128" -->
 ### § 3 Allgemeine Anforderungen an die Verbrauchskennzeichnung, an sonstige Produktinformationen sowie an Informationen in der Werbung und in sonstigen Werbeinformationen
 
 (1) Ein Produkt darf nur dann angeboten oder ausgestellt werden, wenn
 
-- 1\. die nach einer Rechtsverordnung gemäß § 4 oder einer Verordnung der Europäischen Union erforderlichen Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie CO₂-Emissionen und gegebenenfalls diesbezügliche zusätzliche Angaben dem Endverbraucher mittels Verbrauchskennzeichnung beim Anbieten oder Ausstellen des Produkts zur Kenntnis gebracht werden, indem
+- 1\. die nach einer Rechtsverordnung gemäß § 4 oder einer Verordnung der Europäischen Union erforderlichen Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie Kohlenstoffdioxid-Emissionen und gegebenenfalls diesbezügliche zusätzliche Angaben dem Kunden oder Endnutzer mittels Verbrauchskennzeichnung beim Anbieten oder Ausstellen des Produkts zur Kenntnis gebracht werden, indem
   - a) der Händler die Verbrauchskennzeichnung an der in einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union vorgeschriebenen Stelle deutlich sichtbar anbringt,
-  - b) der Hersteller des Kraftfahrzeugs oder der Lieferant die Verbrauchskennzeichnung nach Maßgabe einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union mitliefert, anbringt, dem Händler zur Verfügung stellt oder dem Händler die erforderlichen Angaben zur Verfügung stellt;
-- 2\. Informationen über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie CO₂-Emissionen und gegebenenfalls diesbezügliche zusätzliche Angaben vom Hersteller des Kraftfahrzeugs, vom Lieferanten oder vom Händler nach Maßgabe einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union mittels Verbrauchskennzeichnung oder in anderer Form in den Fällen bereitgestellt werden, in denen der Endverbraucher das Produkt nicht ausgestellt sieht; dies umfasst insbesondere das Anbieten von Produkten über den Versandhandel, in Katalogen, über das Internet oder Telefonmarketing.
+  - b) der Hersteller des Personenkraftwagens oder der Lieferant die Verbrauchskennzeichnung nach Maßgabe einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union mitliefert, anbringt, dem Händler zur Verfügung stellt oder dem Händler die erforderlichen Angaben zur Verfügung stellt;
+- 2\. Informationen über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie Kohlenstoffdioxid-Emissionen und gegebenenfalls diesbezügliche zusätzliche Angaben vom Hersteller des Personenkraftwagens, vom Lieferanten oder vom Händler nach Maßgabe einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union mittels Verbrauchskennzeichnung oder in anderer Form in den Fällen bereitgestellt werden, in denen der Kunde oder Endnutzer das Produkt nicht ausgestellt sieht; dies umfasst insbesondere das Anbieten von Produkten über den Versandhandel, in Katalogen, über das Internet oder Telefonmarketing.
 
-(2) Sind in einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union Anforderungen an sonstige Produktinformationen festgelegt, haben der Hersteller des Kraftfahrzeugs, der Lieferant oder der Händler diese in der vorgeschriebenen Form und zu dem vorgeschriebenen Zeitpunkt bereitzustellen, indem
+(2) Sind in einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union Anforderungen an sonstige Produktinformationen festgelegt, haben der Hersteller des Personenkraftwagens, der Lieferant oder der Händler diese in der vorgeschriebenen Form und zu dem vorgeschriebenen Zeitpunkt bereitzustellen, indem
 
 - a) der Lieferant produktbezogene Datenblätter bereitstellt oder diese in Produktbroschüren aufnimmt,
-- b) der Lieferant und der Händler Informationen im Sinne von Artikel 5 Absatz 3 und Artikel 6 der Verordnung (EG) Nr. 1222/2009 zur Verfügung stellen,
-- c) der Händler einen Aushang am Verkaufsort anbringt und der Hersteller des Kraftfahrzeugs und der Händler einen Leitfaden am Verkaufsort auf Anfrage unverzüglich und unentgeltlich aushändigen.
+- b) der Hersteller oder Händler eines Personenkraftwagens einen Aushang am Verkaufsort anbringt und einen Leitfaden am Verkaufsort auf Anfrage unverzüglich und unentgeltlich zur Verfügung stellt,
+- c) der Lieferant und der Händler Informationen im Sinne der Artikel 6 und 7 der Verordnung (EU) 2020/740 zur Verfügung stellen.
 
-(3) Soweit in einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union Anforderungen an die Werbung festgelegt sind, haben der Hersteller des Kraftfahrzeugs, der Lieferant und der Händler die hierin genannten Angaben zu machen. Das gilt entsprechend für sonstige Werbeinformationen.
+(3) Soweit in einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union Anforderungen an die Werbung festgelegt sind, haben der Hersteller des Personenkraftwagens, der Lieferant und der Händler die hierin genannten Angaben zu machen. Das gilt entsprechend für sonstige Werbeinformationen.
 
-(4) Zur Umsetzung der Richtlinie 2014/94/EU des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307 vom 28.10.2014, S. 1), die durch die Delegierte Verordnung (EU) 2018/674 (ABl. L 114 vom 4.5.2018, S. 1) geändert worden ist, und um künftige Kaufentscheidungen der Verbraucher bei der Personenkraftfahrzeugwahl zu unterstützen, haben die Tankstellenbetreiber von Tankstellen mit mehr als sechs Mehrproduktzapfsäulen sicherzustellen, dass während der Geschäftszeiten der Tankstelle ein Energiekostenvergleich nach den Maßgaben des Artikels 1 der Durchführungsverordnung (EU) 2018/732 der Kommission vom 17. Mai 2018 über eine gemeinsame Methode für den auf eine Maßeinheit bezogenen Preisvergleich für alternative Kraftstoffe gemäß der Richtlinie 2014/94/EU des Europäischen Parlaments und des Rates (ABl. L 123 vom 18.5.2018, S. 85), die durch die Durchführungsverordnung (EU) 2020/858 (ABl. L 195 vom 19.6.2020, S. 57) geändert worden ist, und nach den nachfolgenden Bestimmungen angebracht ist:
+(4) Betreiber von öffentlichen Tankstellen mit mehr als zwölf Zapfstellen haben sicherzustellen, dass während der Geschäftszeiten der Tankstelle ein Energiekostenvergleich nach Maßgabe des Artikels 1 der Durchführungsverordnung (EU) 2018/732 und gemäß dem Muster in der Anlage durch sichtbaren Aushang angebracht ist entweder
 
-- 1\. der Energiekostenvergleich ist gemäß dem Muster in der Anlage durch sichtbaren Aushang entweder an mindestens der Hälfte der Mehrproduktzapfsäulen oder an einer gut sichtbaren Stelle im Bereich des Zahlungsortes anzubringen, dabei sollte das Format an den Mehrproduktzapfsäulen DIN A3 und im Bereich des Zahlungsortes mindestens DIN A2 sein; bei einer digitalen Darstellung muss eine Bildschirmgröße von mindestens 19 Zoll sichergestellt werden, wobei der Energiekostenvergleich mindestens alle 2,5 Minuten für jeweils 30 Sekunden angezeigt werden muss;
-- 2\. der Energiekostenvergleich nach Satz 2 ist jeweils bis zum vierten Werktag nach einem Quartalsbeginn zu aktualisieren.
+- 1\. an mindestens der Hälfte der Zapfstellen dieser Tankstelle oder
+- 2\. an einer gut sichtbaren Stelle im Bereich des Zahlungsortes dieser Tankstelle.
 
-Die amtliche Veröffentlichung des Energiekostenvergleiches erfolgt auf der Internetseite des Bundesministeriums für Wirtschaft und Energie jeweils spätestens vier Wochen vor Quartalsbeginn. Der nach Landesrecht zuständigen Behörde obliegt die Überwachung der Erfüllung der Pflichten nach Satz 1.
+Der Aushang des Energiekostenvergleichs sollte im Falle des Satzes 1 Nummer 1 mindestens im Format DIN A3 und im Falle des Satzes 1 Nummer 2 mindestens im Format DIN A2 erfolgen. Erfolgt der Aushang durch eine digitale Darstellung, muss eine Bildschirmgröße von mindestens 19 Zoll sichergestellt werden, wobei der Energiekostenvergleich mindestens alle 2,5 Minuten für jeweils 30 Sekunden angezeigt werden muss. Der Energiekostenvergleich ist jeweils bis zum Ablauf des vierten Werktags nach einem Quartalsbeginn zu aktualisieren. Die amtliche Veröffentlichung des Energiekostenvergleiches erfolgt auf der Internetseite des Bundesministeriums für Wirtschaft und Energie jeweils spätestens vier Wochen vor Quartalsbeginn. Der nach Landesrecht zuständigen Behörde obliegt die Überwachung der Erfüllung der Pflichten nach Satz 1.
 
-<!-- norm id="BJNE000502128" -->
+(5) Der Händler hat dazu beizutragen, dass ein Produkt, das von der Verordnung (EU) 2017/1369 erfasst wird, nur auf dem Markt bereitgestellt wird, wenn es die Voraussetzungen nach Absatz 1 erfüllt. Er darf insbesondere kein Produkt auf dem Markt bereitstellen, von dem er weiß oder auf Grund der ihm vorliegenden Informationen oder seiner Erfahrung wissen muss, dass das Produkt die Angaben der Verbrauchskennzeichnung nach Absatz 1 nicht erfüllt.
+
+<!-- norm id="BJNE000503128" -->
 ### § 4 Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, in Rechtsverordnungen mit Zustimmung des Bundesrates Folgendes festzulegen:
 
-- 1\. produktspezifische Anforderungen an die Kennzeichnung von Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie über CO₂-Emissionen und zusätzliche Angaben,
+- 1\. produktspezifische Anforderungen an die Kennzeichnung von Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen sowie über Kohlenstoffdioxid-Emissionen und zusätzliche Angaben,
 - 2\. Anforderungen zur Umsetzung, Konkretisierung und Durchführung der von der Europäischen Union auf dem Gebiet der Verbrauchskennzeichnung erlassenen Rechtsvorschriften,
 
-um Verbraucher besser zu informieren und sie dadurch zu sparsamerem Verbrauch an Energie und an anderen wichtigen Ressourcen sowie zur Reduktion der CO₂-Emissionen anzuhalten.
+um Verbraucher besser zu informieren und sie dadurch zu sparsamerem Verbrauch an Energie und an anderen wichtigen Ressourcen sowie zur Reduktion der Kohlenstoffdioxid-Emissionen anzuhalten.
 
 (2) Durch Rechtsverordnung nach Absatz 1 kann bestimmt werden, dass
 
 - 1\. bei energieverbrauchsrelevanten Produkten und Bestandteilen von energieverbrauchsrelevanten Produkten Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen oder Angaben über die Auswirkungen dieser Produkte auf den Verbrauch an Energie und auf andere wichtige Ressourcen sowie zusätzliche Angaben über die energieverbrauchsrelevanten Produkte zu machen sind,
-- 2\. bei Kraftfahrzeugen Angaben über den Kraftstoffverbrauch und die CO₂-Emissionen, über den Verbrauch an Energie und an anderen wichtigen Ressourcen und zusätzliche Angaben über die Kraftfahrzeuge zu machen sind,
+- 2\. bei Personenkraftwagen Angaben über den Kraftstoffverbrauch und die Kohlenstoffdioxid-Emissionen, über den Verbrauch an Energie und an anderen wichtigen Ressourcen und zusätzliche Angaben über die Personenkraftwagen zu machen sind,
 - 3\. bei Reifen Angaben in Bezug auf die Kraftstoffeffizienz und zusätzliche Angaben zu machen sind.
 
 (3) Rechtsverordnungen nach den Absätzen 1 und 2 können insbesondere Folgendes regeln:
 
-- 1\. die Arten der erfassten energieverbrauchsrelevanten Produkte, Kraftfahrzeuge und Reifen,
+- 1\. die Arten der erfassten energieverbrauchsrelevanten Produkte, Personenkraftwagen und Reifen,
 - 2\. bei energieverbrauchsrelevanten Produkten
   - a) Inhalt und Form der Verbrauchskennzeichnung, der sonstigen Produktinformationen, der zusätzlichen Angaben sowie sonstiger Nachweise,
   - b) Aufbewahrungs- und Mitteilungspflichten von technischen Dokumentationen,
   - c) die Angaben, die nach Absatz 2 in der Werbung und in technischen Werbeschriften zu machen sind,
-- 3\. bei Kraftfahrzeugen Inhalt und Form der Verbrauchskennzeichnung, der sonstigen Produktinformationen und der zusätzlichen Angaben wie
-  - a) Hinweisschilder oder Bildschirmanzeigen am Kraftfahrzeug oder in dessen Nähe am Angebots- oder Verkaufsort,
-  - b) Zusammenstellung von Angaben über verschiedene Kraftfahrzeuge oder Kraftfahrzeuggruppen durch Aushänge, Schautafeln oder Bildschirmanzeigen am Angebots- oder Verkaufsort,
-  - c) Zusammenstellung von Angaben über am Markt angebotene Kraftfahrzeuge in regelmäßigen Abständen sowie deren Veröffentlichung und Verteilung,
+- 3\. bei Personenkraftwagen Inhalt und Form der Verbrauchskennzeichnung, der sonstigen Produktinformationen und der zusätzlichen Angaben wie
+  - a) Hinweisschilder oder Bildschirmanzeigen am Personenkraftwagen oder in dessen Nähe am Angebots- oder Verkaufsort,
+  - b) die Zusammenstellung von Angaben über verschiedene Personenkraftwagen oder Personenkraftwagengruppen durch Aushänge, Schautafeln oder Bildschirmanzeigen am Angebots- oder Verkaufsort,
+  - c) die Zusammenstellung von Angaben über am Markt angebotene Personenkraftwagen in regelmäßigen Abständen sowie deren Veröffentlichung und Verteilung,
   - d) die Angaben, die nach Absatz 2 in der Werbung und in sonstigen Werbeinformationen zu machen sind,
 - 4\. bei Reifen
   - a) Inhalt und Form der Verbrauchskennzeichnung, der sonstigen Produktinformationen, der zusätzlichen Angaben sowie sonstiger Nachweise,
@@ -177,15 +152,15 @@ um Verbraucher besser zu informieren und sie dadurch zu sparsamerem Verbrauch an
 - 6\. die Bestimmung von zuständigen Stellen und Behörden sowie deren Befugnisse, insbesondere Befugnisse zur Verhinderung einer missbräuchlichen Verwendung von Bezeichnungen,
 - 7\. die Festlegung der Pflichten der Wirtschaftsakteure, die im Zusammenhang mit dem Inverkehrbringen von Produkten, der Bereitstellung von Produkten auf dem Markt oder der Inbetriebnahme von Produkten sowie beim Anbieten oder Ausstellen von Produkten einzuhalten sind.
 
-(4) Rechtsverordnungen über die Verbrauchskennzeichnung ergehen
+(4) Rechtsverordnungen nach den Absätzen 1 bis 3 werden erlassen
 
-- 1\. bei energieverbrauchsrelevanten Produkten im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit sowie dem Bundesministerium für Verkehr und digitale Infrastruktur,
-- 2\. bei Kraftfahrzeugen im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit sowie dem Bundesministerium für Verkehr und digitale Infrastruktur.
+- 1\. im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit sowie dem Bundesministerium für Verkehr, wenn sie Regelungen über energieverbrauchsrelevante Produkte enthalten,
+- 2\. im Einvernehmen mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit sowie dem Bundesministerium für Verkehr, wenn sie Regelungen über Personenkraftwagen enthalten.
 
-<!-- norm id="BJNE000600000" -->
+<!-- norm id="BJNE000601128" -->
 ### § 5 Zuständigkeit für die Marktüberwachung und Zusammenarbeit; Verordnungsermächtigung
 
-(1) Die Marktüberwachung obliegt vorbehaltlich des Satzes 3 den nach Landesrecht zuständigen Behörden. Im Anwendungsbereich der Pkw-Energieverbrauchskennzeichnungsverordnung vom 28. Mai 2004 (BGBl. I S. 1037), die zuletzt durch Artikel 1 der Verordnung vom 22. August 2011 (BGBl. I S. 1756, 2095) geändert worden ist, hat das Kraftfahrt-Bundesamt den zuständigen Marktüberwachungsbehörden die für die Marktüberwachung erforderlichen Informationen auf Anfrage zu übermitteln. Zuständigkeiten des Kraftfahrt-Bundesamtes nach dem Gesetz über die Errichtung eines Kraftfahrt-Bundesamtes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9230-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 26 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist, bleiben unberührt.
+(1) Die Marktüberwachung obliegt vorbehaltlich des Satzes 3 den nach Landesrecht zuständigen Behörden. Im Anwendungsbereich der Pkw-Energieverbrauchskennzeichnungsverordnung hat das Kraftfahrt-Bundesamt den zuständigen Marktüberwachungsbehörden die für die Marktüberwachung erforderlichen Informationen auf Anfrage zu übermitteln. Zuständigkeiten des Kraftfahrt-Bundesamtes nach dem Gesetz über die Errichtung eines Kraftfahrt-Bundesamtes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9230-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 26 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist, bleiben unberührt.
 
 (2) Die in Absatz 1 genannten Marktüberwachungsbehörden arbeiten mit den für die Kontrolle der Außengrenzen zuständigen Behörden gemäß Kapitel III Abschnitt 3 der Verordnung (EG) Nr. 765/2008 zusammen. Im Rahmen dieser Zusammenarbeit können die für die Kontrolle der Außengrenzen zuständigen Behörden auf Ersuchen den Marktüberwachungsbehörden die Informationen, die sie bei der Überführung von Produkten in den zollrechtlich freien Verkehr erlangt haben und die für die Aufgabenerfüllung der Marktüberwachungsbehörden erforderlich sind, übermitteln.
 
@@ -221,91 +196,70 @@ Absatz 1 Satz 2 sowie die Absätze 2 und 3 gelten für die in Absatz 4 genannten
 
 Werden die in diesem Gesetz, einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union festgelegten Verbrauchskennzeichnungen für Produkte und sonstige Produktinformationen verwendet, so wird bis zum Beweis des Gegenteils vermutet, dass diese den dort genannten Anforderungen entsprechen.
 
-<!-- norm id="BJNE000901123" -->
+<!-- norm id="BJNE000902128" -->
 ### § 8 Stichprobenkontrollen und Marktüberwachungsmaßnahmen
 
-(1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener Stichproben auf geeignete Weise und in angemessenem Umfang, ob die Anforderungen dieses Gesetzes mit Ausnahme von § 3 Absatz 4, einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union an die Verbrauchskennzeichnung, sonstige Produktinformationen sowie an die Werbung und sonstige Werbeinformationen erfüllt sind. Sofern es im Einzelfall angezeigt und erforderlich ist, überprüfen die Marktüberwachungsbehörden die erforderlichen Unterlagen oder führen physische Kontrollen und Laborprüfungen durch. Weitergehende Marktüberwachungsmaßnahmen in anderen Rechtsvorschriften bleiben unberührt.
+(1) Die Marktüberwachungsbehörden haben anhand angemessener Stichproben nach Artikel 11 Absatz 3 Satz 1 der Verordnung (EU) 2019/1020 zu kontrollieren, ob folgende Anforderungen erfüllt sind:
 
-(2) Die Marktüberwachungsbehörden treffen die erforderlichen Maßnahmen, wenn sie den begründeten Verdacht haben, dass die Verbrauchskennzeichnung oder sonstige Produktinformationen nicht die Anforderungen dieses Gesetzes, einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union erfüllen. Sie sind insbesondere befugt,
+- 1\. Anforderungen dieses Gesetzes mit Ausnahme von § 3 Absatz 4,
+- 2\. Anforderungen der Rechtsverordnungen nach § 4,
+- 3\. Anforderungen der Verordnungen der Europäischen Union (§ 2 Absatz 1 Nummer 2), soweit diese Anforderungen die Verbrauchskennzeichnung, sonstige Produktinformationen, Werbung und sonstige Werbeinformationen betreffen.
 
-- 1\. anzuordnen, dass ein Produkt von einer der in § 5 Absatz 4 Nummer 1 bis 5 genannten Stellen oder Personen überprüft wird,
-- 2\. für den zur Prüfung zwingend erforderlichen Zeitraum vorübergehend zu verbieten, dass ein Produkt angeboten oder ausgestellt wird, sofern dies nach der Art des Produkts und dem Ausmaß der zu erwartenden wirtschaftlichen Einbußen zumutbar ist.
+Soweit es im Einzelfall angezeigt und erforderlich ist, haben die Marktüberwachungsbehörden auch die erforderlichen Unterlagen zu überprüfen oder physische Kontrollen und Laborprüfungen durchzuführen. Nach anderen Rechtsvorschriften bestehende Befugnisse der Marktüberwachung bleiben unberührt.
 
-Die Marktüberwachungsbehörde widerruft oder ändert eine Maßnahme nach den Sätzen 1 und 2, wenn der Wirtschaftsakteur nachweist, dass er wirksame Maßnahmen ergriffen hat.
+(2) Hat die Marktüberwachungsbehörde den begründeten Verdacht, dass eine Anforderung nach Absatz 1 Satz 1 nicht erfüllt ist, so hat sie Maßnahmen nach Artikel 16 der Verordnung (EU) 2019/1020 zu ergreifen. Die Marktüberwachungsbehörde kann dabei insbesondere anordnen, dass ein Produkt von einer der in § 5 Absatz 4 Satz 1 genannten Stellen oder Personen überprüft wird.
 
-(3) Stellen die Marktüberwachungsbehörden anhand der nach Absatz 1 oder 2 oder § 10 erfolgten Überprüfungen fest, dass die Verbrauchskennzeichnung oder sonstige Produktinformationen nicht den Anforderungen dieses Gesetzes, einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union entsprechen, so treffen sie die erforderlichen Maßnahmen. Sie sind insbesondere befugt,
+(3) Stellt die Marktüberwachungsbehörde anhand der nach Absatz 1 oder Absatz 2 oder § 10 erfolgten Überprüfungen fest, dass die Verbrauchskennzeichnung oder sonstige Produktinformationen nicht den Anforderungen nach Absatz 1 Satz 1 entsprechen, so hat sie die erforderlichen Maßnahmen nach Artikel 16 der Verordnung (EU) 2019/1020 zu ergreifen. Die Marktüberwachungsbehörde kann dabei insbesondere anordnen, dass eine unrichtige oder unvollständige Verbrauchskennzeichnung oder sonstige Produktinformationen berichtigt wird.
 
-- 1\. Maßnahmen anzuordnen, die gewährleisten, dass eine unrichtige oder unvollständige Verbrauchskennzeichnung oder sonstige Produktinformationen korrigiert werden,
-- 2\. Maßnahmen anzuordnen, die gewährleisten, dass ein Produkt erst dann angeboten oder ausgestellt wird, wenn die in einer Rechtsverordnung nach § 4 oder in einer Verordnung der Europäischen Union festgelegten Anforderungen erfüllt sind.
+(4) Die Marktüberwachungsbehörden haben sich gegenseitig bei Marktüberwachungsmaßnahmen nach den Absätzen 1 bis 3 zu informieren und zu unterstützen.
 
-Die Marktüberwachungsbehörde widerruft oder ändert eine Maßnahme nach den Sätzen 1 und 2, wenn der Wirtschaftsakteur nachweist, dass er wirksame Maßnahmen ergriffen hat.
-
-(4) Bei Fortdauern des nach Absatz 3 festgestellten Verstoßes treffen die Marktüberwachungsbehörden die erforderlichen Maßnahmen. Sie sind insbesondere befugt
-
-- 1\. das Anbieten oder Ausstellen eines Produkts zu untersagen,
-- 2\. das Inverkehrbringen eines Produkts zu untersagen,
-- 3\. die Rücknahme oder den Rückruf eines Produkts anzuordnen oder diese sicherzustellen,
-- 4\. zu untersagen, dass ein energieverbrauchsrelevantes Produkt im Sinne des § 2 Nummer 4 der Energieverbrauchskennzeichnungsverordnung vom 30. Oktober 1997 (BGBl. I S. 2616), die zuletzt durch Artikel 2 des Gesetzes vom 10. Mai 2012 (BGBl. I S. 1070) geändert worden ist, in Betrieb genommen wird.
-
-Die Marktüberwachungsbehörde widerruft oder ändert eine Maßnahme nach den Sätzen 1 und 2, wenn der Wirtschaftsakteur nachweist, dass er wirksame Maßnahmen ergriffen hat.
-
-(5) Beschließt die Marktüberwachungsbehörde, ein Produkt, das in einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hergestellt wurde, vom Markt zu nehmen, das Inverkehrbringen oder die Inbetriebnahme des Produkts zu untersagen oder dessen Anbieten oder Ausstellen zu untersagen, so hat sie den betroffenen Wirtschaftsakteur hiervon in Kenntnis zu setzen.
-
-(6) Die Marktüberwachungsbehörden informieren und unterstützen sich gegenseitig bei Marktüberwachungsmaßnahmen nach den Absätzen 1 bis 4.
-
-<!-- norm id="BJNE001000000" -->
+<!-- norm id="BJNE001001128" -->
 ### § 9 Adressaten der Stichprobenkontrollen und Marktüberwachungsmaßnahmen
 
-(1) Die Stichprobenkontrollen und Maßnahmen der Marktüberwachungsbehörden im Sinne des § 8 Absatz 1 bis 4 sind gegen den jeweils betroffenen Wirtschaftsakteur gerichtet.
+Die Stichprobenkontrollen nach § 8 Absatz 1 sind bei den Wirtschaftsakteuren vorzunehmen. Die Maßnahmen nach § 8 Absatz 2 und 3 sind gegenüber den Wirtschafsakteuren zu treffen, die die Anforderungen nach § 8 Absatz 1 Satz 1 nicht erfüllen.
 
-(2) Der nach Absatz 1 betroffene Wirtschaftsakteur ist vor Erlass einer Maßnahme nach § 8 Absatz 2 bis 4 gemäß § 28 des Verwaltungsverfahrensgesetzes mit der Maßgabe anzuhören, dass die Anhörungsfrist nicht kürzer als zehn Tage sein darf. Wurde eine Maßnahme getroffen, ohne dass der Wirtschaftsakteur gehört wurde, wird ihm so schnell wie möglich Gelegenheit gegeben, sich zu äußern. Die Maßnahme wird daraufhin umgehend überprüft.
+<!-- norm id="BJNE001101128" -->
+### § 10 Befugnisse und Duldungspflichten
 
-(3) Für alle Marktüberwachungsmaßnahmen nach § 8 Absatz 2 bis 4 gilt § 59 der Verwaltungsgerichtsordnung entsprechend.
+(1) Die Befugnisse der Marktüberwachungsbehörden ergeben sich aus § 7 des Marktüberwachungsgesetzes. Die anlasslose Probenentnahme von Produkten im Anwendungsbereich dieses Gesetzes gilt dabei als verhältnismäßig im Sinne des § 7 Absatz 2 Satz 3 des Marktüberwachungsgesetzes. Für Besichtigungen und Prüfungen können gegenüber den betroffenen Wirtschaftsakteuren und Ausstellern, die das Produkt herstellen, zum Zwecke der Bereitstellung auf dem Markt lagern, anbieten oder ausstellen, Gebühren und Auslagen erhoben werden, wenn die Prüfung ergibt, dass eine Anforderung nach § 8 Absatz 1 Satz 1 nicht erfüllt ist. Für Gebühren und Auslagen nach Satz 3 gilt § 11 Satz 2 des Marktüberwachungsgesetzes entsprechend.
 
-<!-- norm id="BJNE001100001" -->
-### § 10 Betretensrechte, Befugnisse und Duldungspflichten
+(2) Hinsichtlich der Verfahrensrechte und -pflichten der Wirtschaftsakteure, Aussteller und Anbieter der Informationsgesellschaft gilt § 10 des Marktüberwachungsgesetzes. Die Pflicht zur Unterstützung der Marktüberwachungsbehörden nach § 10 Absatz 1 Satz 1 des Marktüberwachungsgesetzes umfasst auch die Duldung des Einsatzes von Software, einschließlich KI-Systemen, durch die Marktüberwachungsbehörden, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
 
-(1) Die Marktüberwachungsbehörden und ihre Beauftragten sind, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, befugt, zu den üblichen Betriebs- und Geschäftszeiten Geschäftsräume oder Betriebsgrundstücke zu betreten, in oder auf denen im Rahmen einer Geschäftstätigkeit Produkte im Anwendungsbereich dieses Gesetzes
+(3) Die Duldungspflicht und Auskunftspflicht nach § 10 Absatz 1 des Marktüberwachungsgesetzes gilt entsprechend für Geschäftsräume oder Betriebsgrundstücke, in oder auf denen im Rahmen einer Geschäftstätigkeit energieverbrauchsrelevante Produkte nach Artikel 2 Nummer 9 der Verordnung (EU) 2017/1369 in Betrieb genommen werden.
 
-- 1\. hergestellt werden,
-- 2\. zum Zwecke der Bereitstellung auf dem Markt lagern,
-- 3\. angeboten werden oder
-- 4\. ausgestellt sind.
-
-(2) Die Marktüberwachungsbehörden und ihre Beauftragten sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen. Hat die Prüfung ergeben, dass die Anforderungen an die Verbrauchskennzeichnung oder an sonstige Produktinformationen im Sinne dieses Gesetzes, einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union nicht erfüllt sind, so können die Marktüberwachungsbehörden die Kosten für Besichtigungen und Prüfungen vom jeweils betroffenen Wirtschaftsakteur verlangen, der das Produkt herstellt, zum Zwecke der Bereitstellung auf dem Markt lagert, anbietet oder ausstellt.
-
-(3) Die Marktüberwachungsbehörden und ihre Beauftragten können Proben entnehmen, Muster verlangen und die für ihre Aufgabenerfüllung erforderlichen Unterlagen und Informationen anfordern. Die Proben, Muster, Unterlagen und Informationen sind unentgeltlich zur Verfügung zu stellen. Ist die unentgeltliche Überlassung wirtschaftlich nicht zumutbar, ist auf Verlangen eine angemessene Entschädigung zu leisten.
-
-(4) Der betroffene Wirtschaftsakteur hat die Maßnahmen nach den Absätzen 1 und 2 zu dulden und die Marktüberwachungsbehörden sowie deren Beauftragte zu unterstützen. Er ist verpflichtet, den Marktüberwachungsbehörden auf Verlangen die Auskünfte zu erteilen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Er kann die Auskunft zu Fragen verweigern, deren Beantwortung ihn oder einen seiner in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr aussetzen würde, wegen einer Straftat oder Ordnungswidrigkeit verfolgt zu werden. Er ist über sein Recht zur Auskunftsverweigerung zu belehren.
-
-(5) Die Absätze 1 bis 4 gelten entsprechend für Geschäftsräume oder Betriebsgrundstücke, in oder auf denen im Rahmen einer Geschäftstätigkeit energieverbrauchsrelevante Produkte im Sinne des § 2 Nummer 4 der Energieverbrauchskennzeichnungsverordnung in Betrieb genommen werden.
-
-<!-- norm id="BJNE001201118" -->
+<!-- norm id="BJNE001202128" -->
 ### § 11 Meldeverfahren
 
-(1) Trifft die Marktüberwachungsbehörde Maßnahmen nach § 8 Absatz 4, durch die das Anbieten oder Ausstellen eines Produkts untersagt wird, informiert sie hierüber unter Angabe der Gründe und soweit erforderlich einschließlich personenbezogener Daten
+(1) Trifft die Marktüberwachungsbehörde eine Maßnahme nach Artikel 16 Absatz 5 der Verordnung (EU) 2019/1020, durch die die Bereitstellung eines Produkts auf dem Markt untersagt oder eingeschränkt oder die Rücknahme oder der Rückruf eines Produkts angeordnet wird, so gilt für das Meldeverfahren abweichend von § 17 Absatz 2 Satz 1 und § 18 Absatz 1 Satz 1 des Marktüberwachungsgesetzes:
 
-- 1\. für den Bereich der Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten die beauftragte Stelle im Sinne des § 13 und
-- 2\. für den Bereich der Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen das Bundesministerium für Wirtschaft und Energie.
+- 1\. für den Bereich der Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten hat
+  - a) die Marktüberwachungsbehörde die nach § 13 beauftragte Stelle zu unterrichten,
+  - b) die beauftragte Stelle
+    - aa) eine eingegangene Meldung auf Vollständigkeit und Schlüssigkeit zu überprüfen,
+    - bb) das Bundesministerium für Wirtschaft und Energie über die eingegangene Meldung zu unterrichten und
+    - cc) die eingegangene Meldung der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin zuzuleiten und
+  - c) die beauftragte Stelle die Marktüberwachungsbehörden sowie das Bundesministerium für Wirtschaft und Energie über solche Meldungen der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin, der Europäischen Kommission, der Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zu unterrichten, die mit der Marktüberwachung für energieverbrauchsrelevante Produkte zusammenhängen und ihr bekannt werden;
+- 2\. für den Bereich der Verbrauchskennzeichnung von Personenkraftwagen und Reifen hat
+  - a) die Marktüberwachungsbehörde das Bundesministerium für Wirtschaft und Energie zu unterrichten,
+  - b) das Bundesministerium für Wirtschaft und Energie
+    - aa) eine eingegangene Meldung auf Vollständigkeit und Schlüssigkeit zu überprüfen und
+    - bb) die eingegangene Meldung der Europäischen Kommission und den Mitgliedstaaten der Europäischen Union und den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuzuleiten und
+  - c) das Bundesministerium für Wirtschaft und Energie die Marktüberwachungsbehörden über solche Meldungen der Europäischen Kommission oder eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum zu unterrichten, die mit der Marktüberwachung für Personenkraftwagen oder Reifen zusammenhängen und ihr bekannt werden.
 
-(2) Für den Bereich der Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten überprüft die beauftragte Stelle im Sinne des § 13 die eingegangene Meldung nach Absatz 1 Nummer 1 auf Vollständigkeit und Schlüssigkeit und informiert soweit erforderlich einschließlich personenbezogener Daten das Bundesministerium für Wirtschaft und Energie über die Meldung nach Absatz 1 Nummer 1 und leitet diese soweit erforderlich einschließlich personenbezogener Daten unverzüglich der Europäischen Kommission und den Mitgliedstaaten der Europäischen Union und den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zu. Die beauftragte Stelle informiert soweit erforderlich einschließlich personenbezogener Daten das Bundesministerium für Wirtschaft und Energie und die Marktüberwachungsbehörden über Meldungen der Kommission oder eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum.
+(2) Die in Absatz 1 genannten Stellen dürfen bei der Durchführung des Meldeverfahrens nach Absatz 1 auch personenbezogene Daten verarbeiten, soweit dies für die Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. § 19 Absatz 1 Satz 2 und Absatz 2 Satz 4 des Marktüberwachungsgesetzes ist entsprechend anzuwenden. Die Unterrichtungen und Zuleitungen nach Absatz 1 sollen jeweils unverzüglich und auf elektronischem Weg erfolgen.
 
-(3) Für den Bereich der Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen überprüft das Bundesministerium für Wirtschaft und Energie die nach Absatz 1 Nummer 2 eingegangene Meldung auf Vollständigkeit und Schlüssigkeit und leitet diese soweit erforderlich einschließlich personenbezogener Daten unverzüglich der Europäischen Kommission und den Mitgliedstaaten der Europäischen Union und den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zu. Das Bundesministerium für Wirtschaft und Energie informiert soweit erforderlich einschließlich personenbezogener Daten die Marktüberwachungsbehörden über Meldungen der Kommission oder eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum.
-
-(4) Für den Informationsaustausch sind so weit wie möglich elektronische Kommunikationsmittel zu benutzen.
-
-<!-- norm id="BJNE001302123" -->
+<!-- norm id="BJNE001303128" -->
 ### § 12 Berichtspflichten
 
 (1) Die zuständigen obersten Landesbehörden berichten jährlich in nicht personenbezogener Form über die ergriffenen Vollzugsmaßnahmen und Tätigkeiten zur Durchsetzung der in diesem Gesetz oder auf Grund dieses Gesetzes festgelegten Anforderungen. Sie übermitteln diese Berichte
 
 - 1\. der beauftragten Stelle im Sinne des § 13 für den Bereich der Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten,
-- 2\. dem Bundesministerium für Wirtschaft und Energie für den Bereich der Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen sowie des Energiekostenvergleiches gemäß § 3 Absatz 4.
+- 2\. dem Bundesministerium für Wirtschaft und Energie für den Bereich der Verbrauchskennzeichnung von Personenkraftwagen und Reifen sowie des Energiekostenvergleiches gemäß § 3 Absatz 4.
 
 (2) Die zuständigen obersten Landesbehörden überprüfen regelmäßig die Funktionsweise der Marktüberwachungstätigkeiten und informieren hierüber in nicht personenbezogener Form
 
 - 1\. die beauftragte Stelle im Sinne des § 13 für den Bereich der Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten,
-- 2\. das Bundesministerium für Wirtschaft und Energie für den Bereich der Verbrauchskennzeichnung von Kraftfahrzeugen und Reifen.
+- 2\. das Bundesministerium für Wirtschaft und Energie für den Bereich der Verbrauchskennzeichnung von Personenkraftwagen und Reifen.
 
 (3) Die beauftragte Stelle im Sinne des § 13 erstellt alle vier Jahre einen Bericht, in dem sie in nicht personenbezogener Form Folgendes zusammenfasst:
 
@@ -314,12 +268,14 @@ Die Marktüberwachungsbehörde widerruft oder ändert eine Maßnahme nach den S�
 
 (4) Die beauftragte Stelle übermittelt den Bericht an die Europäische Kommission und stellt ihn der Öffentlichkeit in nicht personenbezogener Form auf elektronischem Weg und gegebenenfalls in anderer Form zur Verfügung. Der erste Bericht muss spätestens bis zum 19. Juni 2014 der Europäischen Kommission übermittelt werden.
 
-<!-- norm id="BJNE001400000" -->
+(5) Den Pflichten nach den Absätzen 1 und 2 soll so weit wie möglich auf elektronischem Weg nachgekommen werden.
+
+<!-- norm id="BJNE001401128" -->
 ### § 13 Beauftragte Stelle
 
-Beauftragte Stelle für die Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten im Anwendungsbereich der Energieverbrauchskennzeichnungsverordnung ist die Bundesanstalt für Materialforschung und -prüfung.
+Beauftragte Stelle für die Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten im Anwendungsbereich der Verordnung (EU) 2017/1369 ist die Bundesanstalt für Materialforschung und -prüfung.
 
-<!-- norm id="BJNE001501118" -->
+<!-- norm id="BJNE001502128" -->
 ### § 14 Aufgaben der beauftragten Stelle
 
 (1) Die Aufgaben der beauftragten Stelle umfassen
@@ -329,25 +285,22 @@ Beauftragte Stelle für die Verbrauchskennzeichnung von energieverbrauchsrelevan
 
 (2) Die beauftragte Stelle unterstützt die Marktüberwachungsbehörden bei der Entwicklung und Durchführung des Überwachungskonzepts nach § 6 Absatz 1 sowie bei technischen oder wissenschaftlichen Fragestellungen für den Bereich der Verbrauchskennzeichnung von energieverbrauchsrelevanten Produkten.
 
-(3) Die beauftragte Stelle stellt ein umfassendes Informationsangebot zu den Anforderungen an die Energieverbrauchskennzeichnung zusammen mit dem Ziel, die Wirtschaft, insbesondere kleine und mittlere Unternehmen sowie Kleinstunternehmen, dabei zu unterstützen, die Anforderungen einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union zu erfüllen.
+(3) Die beauftragte Stelle stellt ein umfassendes Informationsangebot zu den Anforderungen an die Energieverbrauchskennzeichnung zusammen, um Wirtschaftsakteure, insbesondere kleine und mittlere Unternehmen sowie Kleinstunternehmen, dabei zu unterstützen, die Anforderungen einer Rechtsverordnung nach § 4 oder einer Verordnung der Europäischen Union zu erfüllen. Sie stellt ferner Informationen zu Anforderungen an die Energieverbrauchskennzeichnung von Produkten bereit, um die interessierte Öffentlichkeit über den aktuellen Stand der Regulierung zu informieren.
 
-(4) Die beauftragte Stelle unterstützt das Bundesministerium für Wirtschaft und Energie im Prozess der Verabschiedung von Verordnungen der Europäischen Union auf der Grundlage des Artikels 10 der Richtlinie 2010/30/EU.
+(4) Die beauftragte Stelle unterstützt das Bundesministerium für Wirtschaft und Energie bei dessen Mitwirkung an der Verabschiedung von Verordnungen der Europäischen Union auf der Grundlage von Artikel 10 Absatz 1, Artikel 12 Absatz 12 und Artikel 16 der Verordnung (EU) 2017/1369.
 
-<!-- norm id="BJNE001602123" -->
+<!-- norm id="BJNE001603128" -->
 ### § 15 Bußgeldvorschriften; Verordnungsermächtigung
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-- 1\. einer Rechtsverordnung nach § 4 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
-- 1a\. entgegen § 3 Absatz 4 Satz 1 nicht sicherstellt, dass ein Energiekostenvergleich angebracht ist,
-- 2\. einer vollziehbaren Anordnung nach § 10 Absatz 3 Satz 1 zuwiderhandelt,
-- 3\. entgegen § 10 Absatz 4 Satz 1 eine Maßnahme nicht duldet,
-- 4\. entgegen § 10 Absatz 4 Satz 2 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, oder
-- 5\. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 1 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+- 1\. entgegen § 3 Absatz 4 Satz 1 nicht sicherstellt, dass ein Energiekostenvergleich angebracht ist,
+- 2\. einer Rechtsverordnung nach § 4 Absatz 1 oder 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
+- 3\. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union zuwiderhandelt, die inhaltlich einer Regelung entspricht, zu der die in Nummer 2 genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 3 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 5 geahndet werden können.
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 3 geahndet werden können.
 
 <!-- gliederung id="BJNG000301123" ebene="1" -->
 ## Abschnitt 3 Übergangsregelung

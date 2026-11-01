@@ -7,7 +7,7 @@ stand: Geändert durch Art. 1 V v. 13.10.2026 I Nr. 306
 ausfertigung: '2013-04-09'
 quelle: https://www.gesetze-im-internet.de/inttestv/
 doknr: BJNR080100013
-builddate: '20261020215507'
+builddate: '20261031220006'
 ---
 
 # Verordnung über die Prüfungs- und Nachweismodalitäten für die Abschlusstests des Integrationskurses (IntTestV)
@@ -97,10 +97,13 @@ Die Prüfungen sind nicht öffentlich.
 
 (3) Die Prüfungen können unbegrenzt häufig wiederholt werden.
 
-<!-- norm id="BJNE001100000" -->
+<!-- norm id="BJNE001101311" -->
 ## § 10 Bewertung der Prüfungsergebnisse
 
-(1) Die Bedingungen für das Bestehen des „Deutsch-Tests für Zuwanderer“ richten sich nach § 17 Absatz 2 der Integrationskursverordnung. Dabei ist die Kompetenzstufe B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen erreicht, wenn in dem Fertigkeitsbereich „Sprechen“ sowie in mindestens einem der Bereiche „Hören/Lesen“ oder „Schreiben“ die Kompetenzstufe B1 erreicht ist.
+(1) Die Bedingungen für das Bestehen des „Deutsch-Tests für Zuwanderer“ richten sich nach § 17 Absatz 2 der Integrationskursverordnung. Dabei ist die Kompetenzstufe B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen erreicht, wenn
+
+- 1\. im Fertigkeitsbereich „Sprechen“ sowie in mindestens einem der Bereiche „Hören/Lesen“ oder „Schreiben“ die Kompetenzstufe B1 und
+- 2\. im verbleibenden Fertigkeitsbereich der zweiten Alternative nach Nummer 1 mindestens die Kompetenzstufe A 2 erreicht ist.
 
 (2) Für das Bestehen des Orientierungskurses nach § 17 Absatz 2 der Integrationskursverordnung müssen im Test „Leben in Deutschland“ mindestens 15 der 33 Fragen eines Fragebogens richtig beantwortet worden sein.
 

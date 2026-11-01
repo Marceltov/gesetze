@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 9 G v. 20.7.2026 I Nr. 215
 ausfertigung: '1998-08-26'
 quelle: https://www.gesetze-im-internet.de/gwb/
 doknr: BJNR252110998
-builddate: '20260821215507'
+builddate: '20261031220013'
 ---
 
 # Gesetz gegen Wettbewerbsbeschränkungen (GWB)
@@ -1274,7 +1274,7 @@ Diese Stellen können unabhängig von der jeweils gewählten Verfahrensart unter
 <!-- gliederung id="BJNG018002118" ebene="3" -->
 #### Abschnitt 2 Markttransparenzstelle für Kraftstoffe
 
-<!-- norm id="BJNE021806128" -->
+<!-- norm id="BJNE021807128" -->
 ##### § 47k Marktbeobachtung im Bereich Kraftstoffe
 
 (1) Beim Bundeskartellamt wird eine Markttransparenzstelle für Kraftstoffe eingerichtet. Sie beobachtet die Wertschöpfungsstufen der Herstellung von und des Handels mit Kraftstoffen, um den Kartellbehörden die Aufdeckung und Sanktionierung von Verstößen gegen die §§ 1, 19 und 20 dieses Gesetzes und die Artikel 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union zu erleichtern. Sie nimmt ihre Aufgaben nach Maßgabe der Absätze 2 bis 9 wahr.
@@ -1295,7 +1295,7 @@ an die Markttransparenzstelle für Kraftstoffe zu übermitteln. Werden dem Betre
 
 Standortinformationen, aggregierte oder ältere Daten kann die Markttransparenzstelle für Kraftstoffe auch an weitere Behörden und Stellen der unmittelbaren Bundes- und Landesverwaltung für deren gesetzliche Aufgaben weitergeben, Mengendaten jedoch nur derart aggregiert, dass die Betriebs- und Geschäftsgeheimnisse der einzelnen Betreiber gewahrt bleiben.
 
-(5) Die Markttransparenzstelle für Kraftstoffe wird nach Maßgabe der Rechtsverordnung nach Absatz 8 ermächtigt, die nach Absatz 2 erhobenen Preisdaten elektronisch an Anbieter von Verbraucher-Informationsdiensten zum Zweck der Verbraucherinformation weiterzugeben. Bei der Veröffentlichung oder Weitergabe dieser Preisdaten an Verbraucherinnen und Verbraucher müssen die Anbieter von Verbraucher-Informationsdiensten die in der Rechtsverordnung nach Absatz 8 Nummer 5 näher geregelten Vorgaben einhalten. Die Markttransparenzstelle für Kraftstoffe ist befugt, bei Nichteinhaltung dieser Vorgaben von einer Weitergabe der Daten abzusehen.
+(5) Die Markttransparenzstelle für Kraftstoffe wird nach Maßgabe der Rechtsverordnung nach Absatz 8 ermächtigt, die nach Absatz 2 erhobenen Preisdaten elektronisch an Anbieter von Verbraucher-Informationsdiensten ausschließlich zum Zweck der Verbraucherinformation weiterzugeben. Bei der Veröffentlichung oder Weitergabe dieser Preisdaten an Verbraucherinnen und Verbraucher müssen die Anbieter von Verbraucher-Informationsdiensten die in der Rechtsverordnung nach Absatz 8 Nummer 5 näher geregelten Vorgaben einhalten. Die Markttransparenzstelle für Kraftstoffe ist befugt, bei Nichteinhaltung dieser Vorgaben von einer Weitergabe der Daten abzusehen.
 
 (6) Die Markttransparenzstelle für Kraftstoffe stellt die operationelle Zuverlässigkeit der Datenbeobachtung sicher und gewährleistet Vertraulichkeit, Integrität und Schutz der eingehenden Informationen.
 
@@ -3114,7 +3114,7 @@ Satz 1 ist nicht anzuwenden, wenn das Unternehmen seinen Verpflichtungen dadurch
 >
 > (+++ § 123: Zur Anwendung vgl. § 41 Abs. 2 MessbG +++)
 
-<!-- norm id="BJNE017211128" -->
+<!-- norm id="BJNE017213123" -->
 ###### § 124 Fakultative Ausschlussgründe
 
 (1) Öffentliche Auftraggeber können unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit ein Unternehmen zu jedem Zeitpunkt des Vergabeverfahrens von der Teilnahme an einem Vergabeverfahren ausschließen, wenn
@@ -3132,7 +3132,7 @@ Satz 1 ist nicht anzuwenden, wenn das Unternehmen seinen Verpflichtungen dadurch
   - b) versucht hat, vertrauliche Informationen zu erhalten, durch die es unzulässige Vorteile beim Vergabeverfahren erlangen könnte, oder
   - c) fahrlässig oder vorsätzlich irreführende Informationen übermittelt hat, die die Vergabeentscheidung des öffentlichen Auftraggebers erheblich beeinflussen könnten, oder versucht hat, solche Informationen zu übermitteln.
 
-(2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des Schwarzarbeitsbekämpfungsgesetzes, § 22 des Lieferkettensorgfaltspflichtengesetzes und § 14 des Bundestariftreuegesetzes bleiben unberührt.
+(2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des Schwarzarbeitsbekämpfungsgesetzes, § 20 des Ökodesign-Gesetzes, § 22 des Lieferkettensorgfaltspflichtengesetzes und § 14 des Bundestariftreuegesetzes bleiben unberührt.
 
 > **Fußnote**
 >

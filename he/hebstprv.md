@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 5 V v. 21.11.2024 I Nr. 360
 ausfertigung: '2020-01-08'
 quelle: https://www.gesetze-im-internet.de/hebstprv/
 doknr: BJNR003900020
-builddate: '20261030220002'
+builddate: '20261031220002'
 ---
 
 # Studien- und Prüfungsverordnung für Hebammen (HebStPrV)
@@ -125,19 +125,21 @@ Die Vermittlung der Kompetenzbereiche II bis VI der Anlage 1 wird soweit möglic
 
 (5) Stellt die zuständige Behörde fest, dass der Praxiseinsatz im Ausland nicht gleichwertig nach Absatz 2 ist, teilt sie dies der verantwortlichen Praxiseinrichtung mit; die Mitteilung soll spätestens einen Monat vor Beginn der Durchführung des im Praxisplan nach § 16 Absatz 1 des Hebammengesetzes vorgesehenen Praxiseinsatzes im Ausland erfolgen. In diesem Fall kann der Praxiseinsatz nicht nach Absatz 1 Satz 2 auf die Dauer des berufspraktischen Teils des Hebammenstudiums nach § 11 Absatz 3 Satz 2 des Hebammengesetzes angerechnet werden. Wurde ein nicht nach Absatz 2 gleichwertiger Praxiseinsatz im Ausland absolviert, verlängert sich der Vertrag zur akademischen Hebammenausbildung um die entsprechende Dauer.
 
-<!-- norm id="BJNE001001130" -->
+<!-- norm id="BJNE001002130" -->
 #### § 8 Umfang und Inhalt der Praxiseinsätze
 
 (1) Die Praxiseinsätze nach den §§ 6 bis 7a werden so festgelegt, dass sie mindestens den Vorgaben in Anlage 2 entsprechen.
 
 (2) Während der Praxiseinsätze sind insbesondere die in Anlage 3 aufgeführten Tätigkeiten auszuüben.
 
+(3) Stellt die Hochschule bei der zuständigen Behörde einen Antrag auf Erteilung der Genehmigung nach § 13 Absatz 2 Satz 4 des Hebammengesetzes, legt sie in einem Konzept dar, dass das Ziel des jeweiligen Praxiseinsatzes durch den beantragten Umfang der Ersetzung durch praktische Lerneinheiten an der Hochschule oder bei der verantwortlichen Praxiseinrichtung nicht gefährdet wird. Absatz 2 bleibt unberührt.
+
 <!-- norm id="BJNE001100000" -->
 #### § 9 Praxisplan
 
 Bei der Erstellung des Praxisplans nach § 16 Absatz 1 des Hebammengesetzes beachtet die verantwortliche Praxiseinrichtung die Vorgaben des modularen Curriculums der Hochschule sowie die §§ 6 bis 8.
 
-<!-- norm id="BJNE001201130" -->
+<!-- norm id="BJNE001202130" -->
 #### § 10 Qualifikation der Praxisanleitung
 
 (1) Zur Praxisanleitung befähigt ist eine Person, wenn sie
@@ -147,7 +149,7 @@ Bei der Erstellung des Praxisplans nach § 16 Absatz 1 des Hebammengesetzes beac
   - b) „Hebamme“ oder „Entbindungspfleger“ nach § 1 Absatz 1 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung verfügt,
 - 2\. über Berufserfahrung als Hebamme in dem jeweiligen Einsatzbereich von mindestens zwei Jahren verfügt,
 - 3\. eine berufspädagogische Zusatzqualifikation im Umfang von mindestens 300 Stunden absolviert hat und
-- 4\. kontinuierliche berufspädagogische Fortbildungen im Umfang von mindestens 24 Stunden jährlich absolviert.
+- 4\. kontinuierliche, insbesondere berufspädagogische Fortbildungen im Umfang von mindestens 24 Stunden jährlich absolviert.
 
 Die Länder können den Zeitraum, in dem die berufspädagogischen Fortbildungen nach Satz 1 Nummer 4 zu absolvieren sind, auf bis zu drei Jahre verlängern. Der Stundenumfang ist entsprechend zu erhöhen.
 
@@ -518,14 +520,14 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 <!-- gliederung id="BJNG001000000" ebene="1" -->
 ## Teil 3 Erlaubnis zum Führen der Berufsbezeichnung
 
-<!-- norm id="BJNE004400000" -->
+<!-- norm id="BJNE004401130" -->
 ### § 42 Erlaubnisurkunde
 
 (1) Bei der Erteilung der Erlaubnis zum Führen der Berufsbezeichnung nach § 5 Absatz 1 des Hebammengesetzes verwendet die zuständige Behörde das Muster der Erlaubnisurkunde nach Anlage 4.
 
 (2) Im Fall eines Antrags nach § 74 Absatz 2 des Hebammengesetzes verwendet die zuständige Behörde bei der Erteilung der Erlaubnis das Muster der Erlaubnisurkunde nach Anlage 5.
 
-(3) Im Fall des Zugangs zum Hebammenstudium nach § 10 Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe bb oder cc des Hebammengesetzes verwendet die zuständige Behörde bei der Erteilung der Erlaubnis das Muster der Erlaubnisurkunde nach Anlage 6.
+(3) (weggefallen)
 
 <!-- gliederung id="BJNG001100000" ebene="1" -->
 ## Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen
@@ -544,27 +546,27 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 
 (4) Im Fall des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
-<!-- norm id="BJNE007400125" -->
+<!-- norm id="BJNE007401130" -->
 #### § 43a Erforderliche Unterlagen
 
 (1) Personen, die die Erlaubnis zum Führen der Berufsbezeichnung nach § 5 des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des Hebammengesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
 
-- 1\. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeit in deutscher Sprache,
+- 1\. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeit,
 - 2\. einen Identitätsnachweis,
 - 3\. eine Bescheinigung über die erworbene Berufsqualifikation und die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
 - 4\. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
-- 5\. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+- 5\. eine Erklärung, dass bisher noch kein Antrag für eine Erlaubnis zum Führen der Berufsbezeichnung nach § 5 des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des Hebammengesetzes erworbenen Berufsqualifikation gestellt wurde, und
 - 6\. sofern vorhanden, einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
 
 Für den Fall, dass die außerhalb des Geltungsbereichs des Hebammengesetzes erworbene Berufsqualifikation der automatischen Anerkennung unterliegt, sind die in den §§ 46 bis 50 des Hebammengesetzes genannten Nachweise und Bescheinigungen oder solche Nachweise vorzulegen, die geeignet sind, die jeweils genannten Voraussetzungen nach den §§ 46 bis 50 des Hebammengesetzes zu belegen.
 
-(2) Die Unterlagen nach Absatz 1 Satz 1 Nummer 2 bis 4 und Satz 2 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Satz 1 Nummer 3 und 4 und Satz 2 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+(2) Die Unterlagen nach Absatz 1 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Den Unterlagen, die nicht in deutscher oder englischer Sprache ausgestellt wurden, hat die antragstellende Person Übersetzungen in deutscher oder englischer Sprache beizufügen. In begründeten Ausnahmefällen kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Übersetzungen in deutscher Sprache vorzulegen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
 
-(3) Die zuständige Behörde kann abweichend von Absatz 2 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+(3) Die zuständige Behörde kann abweichend von Absatz 2 Satz 1 eine andere Form für die vorzulegenden Dokumente zulassen. Die zuständige Behörde kann, abweichend von Absatz 2 Satz 4, die Erstellung von Übersetzungen auch durch andere Übersetzerinnen oder Übersetzer zulassen oder die Übersetzung der Dokumente mittels eines Übersetzungsprogramms selbst vornehmen.
 
 (4) Die zuständige Behörde kann die antragstellende Person auffordern, innerhalb einer angemessenen Frist Informationen zum Inhalt und zur Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Voraussetzungen für die automatische Anerkennung einer Berufsqualifikation nach Teil 4 Abschnitt 2 des Hebammengesetzes oder zur Bewertung der Voraussetzungen nach Teil 4 Abschnitt 3 des Hebammengesetzes erforderlich ist. Soweit die Ausbildung in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat absolviert wurde, kann sich die zuständige Behörde an die zuständige Stelle des Ausbildungsstaats wenden.
 
-(5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die in einem Mitgliedstaat, einem Vertragsstaat oder einem gleichgestellten Staat ausgestellt oder anerkannt wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 43 Absatz 2 bis 4.
+(5) Bestehen begründete Zweifel an der Echtheit, der inhaltlichen Richtigkeit oder der Richtigkeit der Übersetzung der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die in einem Mitgliedstaat, einem Vertragsstaat oder einem gleichgestellten Staat ausgestellt oder anerkannt wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 43 Absatz 2 bis 4.
 
 (6) Die antragstellende Person hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind insbesondere
 
@@ -688,10 +690,10 @@ durchgeführt.
 
 (4) Die Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die zu prüfende Person beide Prüfungsteile bestanden hat. Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 9 erteilt.
 
-<!-- norm id="BJNE005400000" -->
+<!-- norm id="BJNE005401130" -->
 #### § 52 Inhalt und Durchführung des Anpassungslehrgangs
 
-(1) Ziel des Anpassungslehrgangs nach § 59 des Hebammengesetzes ist es, festzustellen, dass die teilnehmende Person über die Kompetenzen verfügt, die zur Ausübung des Berufs der Hebamme erforderlich sind. Die zuständige Behörde legt die Dauer, die Formen und die Inhalte des Anpassungslehrgangs so fest, dass das Ziel des Anpassungslehrgangs erreicht werden kann.
+(1) Ziel des Anpassungslehrgangs nach § 59 des Hebammengesetzes ist es, festzustellen, dass die teilnehmende Person über die Kompetenzen verfügt, die zur Ausübung des Berufs der Hebamme erforderlich sind. Die zuständige Behörde legt die Dauer, die Formen und die Inhalte des Anpassungslehrgangs so fest, dass das Ziel des Anpassungslehrgangs erreicht werden kann. Hierbei können insbesondere die Angaben in Mustergutachten der Gutachtenstelle für Gesundheitsberufe berücksichtigt werden.
 
 (2) Der Anpassungslehrgang wird in Form von
 
@@ -699,7 +701,7 @@ durchgeführt.
 - 2\. Praxiseinsätzen mit theoretischer Unterweisung in Krankenhäusern, bei freiberuflichen Hebammen, in ambulanten hebammengeleiteten Einrichtungen oder weiteren Einrichtungen nach § 13 des Hebammengesetzes oder
 - 3\. beidem
 
-durchgeführt. An der theoretischen Unterweisung sollen praxisanleitende Personen, die die Voraussetzungen nach § 10 erfüllen, in angemessenem Umfang beteiligt werden.
+durchgeführt. Anpassungslehrgang und Abschlussgespräch können auch in modularisierter Form auf der Grundlage eines standardisierten und kompetenzorientierten Muster-Lehrplans durchgeführt werden. An der theoretischen Unterweisung sollen praxisanleitende Personen, die die Voraussetzungen nach § 10 erfüllen, in angemessenem Umfang beteiligt werden.
 
 <!-- norm id="BJNE005500000" -->
 #### § 53 Abschluss des Anpassungslehrgangs
@@ -746,25 +748,25 @@ Die Nachweise nach den §§ 54 und 55 dürfen von der zuständigen Behörde der 
 
 Beantragt eine Person eine Erlaubnis zur partiellen Berufsausübung nach § 59a des Hebammengesetzes, so bestätigt die zuständige Behörde ihr innerhalb eines Monats nach Eingang des Antrags den Antragseingang und teilt ihr gegebenenfalls mit, welche Unterlagen fehlen, um die erforderlichen Voraussetzungen nachzuweisen.
 
-<!-- norm id="BJNE007600125" -->
+<!-- norm id="BJNE007601130" -->
 #### § 56b Erforderliche Unterlagen
 
 (1) Personen, die die Erlaubnis zur partiellen Berufsausübung nach § 59a des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des Hebammengesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
 
-- 1\. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
+- 1\. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeit,
 - 2\. einen Identitätsnachweis,
 - 3\. eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt, dass die Berufsqualifikation erforderlich ist für die Ausübung einer beruflichen Tätigkeit in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat, die den Tätigkeiten einer Hebamme nur partiell entsprechen, sowie die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
 - 4\. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
-- 5\. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+- 5\. eine Erklärung, dass bisher noch kein Antrag für eine Erlaubnis zur partiellen Berufsausübung nach § 59a des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des Hebammengesetzes erworbenen Berufsqualifikation gestellt wurde, und
 - 6\. einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
 
-(2) Die Unterlagen nach Absatz 1 Nummer 2 bis 4 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 und 4 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+(2) Die Unterlagen nach Absatz 1 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Den Unterlagen, die nicht in deutscher oder englischer Sprache ausgestellt wurden, hat die antragstellende Person Übersetzungen in deutscher oder englischer Sprache beizufügen. In begründeten Ausnahmefällen kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Übersetzungen in deutscher Sprache vorzulegen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
 
-(3) Die zuständige Behörde kann abweichend von Absatz 2 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+(3) Die zuständige Behörde kann abweichend von Absatz 2 Satz 1 eine andere Form für die vorzulegenden Dokumente zulassen. Die zuständige Behörde kann, abweichend von Absatz 2 Satz 4, die Erstellung von Übersetzungen auch durch andere Übersetzerinnen oder Übersetzer zulassen oder die Übersetzung der Dokumente mittels eines Übersetzungsprogramms selbst vornehmen.
 
 (4) Die zuständige Behörde kann die antragstellende Person auffordern, innerhalb einer angemessenen Frist Informationen zum Inhalt und zur Dauer der im Ausland absolvierten Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur Bewertung der Voraussetzungen nach § 59a des Hebammengesetzes erforderlich ist. Soweit die Ausbildung in einem Mitgliedstaat, in einem Vertragsstaat oder in einem gleichgestellten Staat absolviert wurde, kann sich die zuständige Behörde an die zuständige Stelle des Ausbildungsstaats wenden.
 
-(5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen Richtigkeit der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die in einem Mitgliedstaat, einem Vertragsstaat oder einem gleichgestellten Staat ausgestellt oder anerkannt wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 56c.
+(5) Bestehen begründete Zweifel an der Echtheit, der inhaltlichen Richtigkeit oder der Richtigkeit der Übersetzung der vorgelegten Unterlagen, kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die in einem Mitgliedstaat, einem Vertragsstaat oder einem gleichgestellten Staat ausgestellt oder anerkannt wurden, kann sich die zuständige Behörde im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als auch die antragstellende Person auffordern, beglaubigte Abschriften vorzulegen. Eine solche Aufforderung hemmt nicht den Fristlauf nach § 56c.
 
 (6) Die antragstellende Person hat durch geeignete Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen sind insbesondere
 
@@ -789,31 +791,31 @@ Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 59a des
 <!-- gliederung id="BJNG001800125" ebene="2" -->
 ### Abschnitt 6 Verfahren zur Erteilung einer Genehmigung zur Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
 
-<!-- norm id="BJNE007900125" -->
+<!-- norm id="BJNE007901130" -->
 #### § 56e Erforderliche Unterlagen
 
 (1) Personen, die eine Genehmigung nach § 62a Absatz 1 des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des Hebammengesetzes erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
 
-- 1\. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
+- 1\. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeit,
 - 2\. einen Nachweis ihrer Identität sowie ihrer Staatsangehörigkeit,
 - 3\. eine Bescheinigung, aus der sich ergibt, dass zum Zeitpunkt der Vorlage der Bescheinigung die antragstellende Person in einem Beruf, dessen Tätigkeit der Tätigkeit einer Hebamme nur partiell entspricht, rechtmäßig in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat niedergelassen ist,
 - 4\. eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt, dass die Berufsqualifikation erforderlich ist für die Ausübung dieses Berufs in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat sowie die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation belegen,
 - 5\. sofern vorhanden, eine Bescheinigung über die erworbene Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die durch lebenslanges Lernen erworben worden sind,
-- 6\. eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigkeit gestellt wurde, und
+- 6\. eine Erklärung, dass bisher noch kein Antrag für eine Genehmigung zur Dienstleistungserbringung im Rahmen der partiellen Berufsausübung nach § 62a Absatz 1 des Hebammengesetzes aufgrund einer außerhalb des Geltungsbereichs des Hebammengesetzes erworbenen Berufsqualifikation gestellt wurde, und
 - 7\. einen Nachweis über die Kenntnisse der deutschen Sprache der antragstellenden Person.
 
 (2) Im Fall von § 62a Absatz 1 Satz 2 Nummer 2 Buchstabe b des Hebammengesetzes hat die antragstellende Person zusätzlich einen Nachweis in beliebiger Form darüber vorzulegen, dass dieser Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr lang in einem oder mehreren Mitgliedstaaten, in einem oder mehreren Vertragsstaaten oder in einem oder mehreren gleichgestellten Staaten rechtmäßig ausgeübt worden ist.
 
-(3) Die Unterlagen nach Absatz 1 Nummer 2 bis 5 sowie Absatz 2 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 bis 5 sowie Absatz 2 sind Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige Behörde von allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache verlangen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
+(3) Die Unterlagen nach Absatz 1 und Absatz 2 sind der zuständigen Behörde in Form von Abschriften vorzulegen oder elektronisch zu übermitteln. Den Unterlagen, die nicht in deutscher oder englischer Sprache ausgestellt wurden, hat die antragstellende Person Übersetzungen in deutscher oder englischer Sprache beizufügen. In begründeten Ausnahmefällen kann die zuständige Behörde die antragstellende Person auffordern, innerhalb einer angemessenen Frist Übersetzungen in deutscher Sprache vorzulegen. Die Übersetzungen sind von einer öffentlich bestellten oder beeidigten Übersetzerin oder einem öffentlich bestellten oder beeidigten Übersetzer erstellen zu lassen.
 
-(4) Die zuständige Behörde kann abweichend von Absatz 3 eine andere Form für die vorzulegenden Dokumente zulassen. Sie kann auf die Übersetzung der Unterlagen in deutscher Sprache verzichten sowie eine Übersetzung der Unterlagen in englischer Sprache zulassen.
+(4) Die zuständige Behörde kann abweichend von Absatz 3 Satz 1 eine andere Form für die vorzulegenden Dokumente zulassen. Die zuständige Behörde kann, abweichend von Absatz 3 Satz 4, die Erstellung von Übersetzungen auch durch andere Übersetzerinnen oder Übersetzer zulassen oder die Übersetzung der Dokumente mittels eines Übersetzungsprogramms selbst vornehmen.
 
 (5) Die §§ 54 bis 56 sowie 56b Absatz 4 und 5 Satz 1 und 2 gelten entsprechend.
 
 <!-- gliederung id="BJNG001600000" ebene="1" -->
 ## Teil 5 Übergangs- und Schlussvorschriften
 
-<!-- norm id="BJNE005902125" -->
+<!-- norm id="BJNE005903130" -->
 ### § 57 Übergangsvorschriften zur fachschulischen Ausbildung
 
 (1) Für fachschulische Ausbildungen zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 begonnen worden sind, ist bis zum 31. Dezember 2027 die Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung nach Maßgabe der folgenden Absätze anzuwenden.
@@ -830,7 +832,7 @@ Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 59a des
 
 (7) Für den mündlichen Teil der Kenntnisprüfung nach § 16b Absatz 4 und den praktischen Teil der Kenntnisprüfung nach § 16b Absatz 5 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung gilt, dass die oder der Vorsitzende des Prüfungsausschusses während einer Prüfung, die nach dem 30. September 2023 durchgeführt wird, anwesend sein muss; ihr oder ihm steht ein Fragerecht zu. Für den praktischen Teil der Kenntnisprüfung nach § 16b Absatz 5 gilt in diesen Fällen auch § 16a Absatz 3 Satz 11 der Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung entsprechend.
 
-(8) Im Fall eines Antrags nach § 77 Absatz 1 Satz 2 des Hebammengesetzes verwendet die zuständige Behörde bei der Erteilung der Erlaubnis das Muster der Erlaubnisurkunde nach Anlage 6a, wenn die antragstellende Person nicht über eine mindestens zwölfjährige allgemeine Schulbildung verfügt.
+(8) Im Fall eines Antrags nach § 77 Absatz 1 Satz 2 des Hebammengesetzes verwendet die zuständige Behörde bei der Erteilung der Erlaubnis das Muster der Erlaubnisurkunde nach Anlage 6, wenn die antragstellende Person nicht über eine mindestens zwölfjährige allgemeine Schulbildung verfügt.
 
 <!-- norm id="BJNE006001130" -->
 ### § 58 Übergangsvorschriften zur Ausbildung in Form von Modellvorhaben
@@ -842,6 +844,11 @@ Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 59a des
 (3) Im mündlichen Teil der Prüfung wird, wenn die Prüfung nach dem 30. September 2023 durchgeführt wird, die Prüfung von drei Fachprüferinnen oder Fachprüfern abgenommen und nach § 20 benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, am mündlichen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Note für das einzelne Fach als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
 
 (4) Der praktische Teil der Prüfung wird, wenn die Prüfung nach dem 30. September 2023 durchgeführt wird, von zwei Fachprüferinnen oder Fachprüfern abgenommen und nach § 20 benotet. Die oder der Vorsitzende des Prüfungsausschusses ist berechtigt, am praktischen Teil der Prüfung teilzunehmen; ihr oder ihm steht kein Fragerecht zu. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den praktischen Teil der Prüfung als das arithmetische Mittel der Noten der einzelnen Fachprüferinnen oder Fachprüfer. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 20 zuzuordnen.
+
+<!-- norm id="BJNE008400130" -->
+### § 58a Übergangsvorschrift für Anträge auf Anerkennung ausländischer Berufsqualifikationen
+
+Für Anträge auf Anerkennung einer außerhalb des Geltungsbereichs dieser Verordnung erworbenen Berufsqualifikation, die bis zum Ablauf des 31. Oktober 2026 gestellt worden sind, gelten die §§ 43a, 56b und 56e in der bis zum 31. Oktober 2026 geltenden Fassung weiter.
 
 <!-- norm id="BJNE006100000" -->
 ### § 59 Ausnahmeregelung zur Praxisanleitung
@@ -993,50 +1000,8 @@ Während der Praxiseinsätze sind insbesondere folgende Tätigkeiten auszuüben:
 | ......... |  |  |
 | (Unterschrift oder qualifizierte elektronische Signatur) |  |  |
 
-<!-- norm id="BJNE006901125" -->
-### Anlage 6 (zu § 42 Absatz 3)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
-
-**Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“**
-
-|  |  |  |
-|---|---|---|
-| Name, Vorname |  |  |
-| Geburtsdatum |  | Geburtsort |
-
-erhält auf der Grundlage von § 5 des Gesetzes über das Studium und den Beruf von Hebammen (Hebammengesetz) mit Wirkung vom heutigen Tage die Erlaubnis, die Berufsbezeichnung
-
-„Hebamme“
-
-zu führen.
-
-**Wichtiger Hinweis:**
-
-**Aufgrund des Zugangs zum Hebammenstudium nach § 10 Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe bb oder Doppelbuchstabe cc des Hebammengesetzes wird die Berufsqualifikation der Inhaberin oder des Inhabers dieser Erlaubnis nicht automatisch anerkannt nach Artikel 21 Absatz 3 der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch den Delegierten Beschluss (EU) 2023/2383 (ABl. L 129 vom 9.10.2023, S. 1) geändert worden ist, in ihrer jeweils geltenden Fassung.**
-
-**Important note:**
-
-**On account of having had access to midwifery studies by virtue of Section 10 (1) no. 1 (b) (bb) or (cc) of the Midwives Act, the professional qualification of the holder of this licence is not automatically recognised in accordance with Article 21 (3) of Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications (OJ L 255 of 30.9.2005, p. 22; L 271, 16.10.2007, p. 18; L 93, 4.4.2008, p. 28; L 33, 3.2.2009, p. 49; L 305, 24.10.2014, p. 115), most recently amended by Delegated Decision (EU) 2023/2383 (OJ L 129, 9.10.2023, p. 1), in its current version.**
-
-**Remarque importante:**
-
-**En raison de l´accès aux études de sage-femme, réglé en vertu de l´article 10, paragraphe 1, point 1, lettre b), double lettre bb) ou cc), de la loi sur la profession de sage-femme (Hebammengesetz), la qualification professionnelle du titulaire de cette autorisation n´est pas automatiquement reconnue conformément à l´article 21, paragraphe 3, de la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles (JO L 255 du 30.9.2005, p. 22; L 271 du 16.10.2007, p. 18; L 93 du 4.4.2008, p. 28; L 33 du 3.2.2009, p. 49; L 305 du 24.10.2014, p. 115), modifiée en dernier lieu par la décision déléguée (UE) 2023/2383 (JO L 129 du 9.10.2023, p. 1), dans sa version actualisée.**
-
-**Nota importante:**
-
-**In base all´accesso agli studi di ostetricia ai sensi dell´articolo 10, paragrafo 1, comma 1, lettera b), punto bb) o cc) della legge sulle ostetriche, la qualifica professionale del titolare di questa licenza non viene riconosciuta automaticamente ai sensi dell´articolo 21 capoverso 3 della Direttiva 2005/36/CE del Parlamento Europeo e del Consiglio del 7 settembre 2005 sul riconoscimento delle qualifiche professionali (GU L 255 del 30.9.2005, pag. 22; L 271 del 16.10.2007, pag. 18; L 93 del 4.4 2008, pag. 28; L 33, 3.2.2009, pag. 49; L 305, 24.10.2014, pag. 115), modificata da ultimo con decisione delegata (UE) 2023/2383 (GU L 129 del 9.10.2023, p. 1), nella versione vigente.**
-
-**Nota importante:**
-
-**Tras acceder a los estudios de matrona con arreglo al artículo 10, apartado 1, punto 1, letra b, inciso bb o cc, de la Ley alemana de matronas, la cualificación profesional de la o el titular de esta licencia no se reconoce automáticamente conforme al artículo 21, apartado 3, de la Directiva 2005/36/CE del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, relativa al reconocimiento de cualificaciones profesionales (DO L 255 de 30/09/2005, p. 22; L 271 de 16/10/2007, p. 18; L 93 de 04/04/2008, p. 28; L 33 de 03/02/2009, p. 49; L 305 de 24/10/2014, p. 115), modificada en último lugar por la Decisión Delegada (UE) 2023/2383 (DO L 129 de 9/10/2023, p. 1), en su versión vigente.**
-
-|  |  |  |
-|---|---|---|
-| Ort, Datum |  |  |
-|  |  | (Siegel) |
-| (Unterschrift oder qualifizierte elektronische Signatur) |  |  |
-
-<!-- norm id="BJNE008000125" -->
-### Anlage 6a (zu § 57 Absatz 8)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“
+<!-- norm id="BJNE008001130" -->
+### Anlage 6 (zu § 57 Absatz 8)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“
 
 **Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme/Entbindungspfleger“**
 

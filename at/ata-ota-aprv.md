@@ -7,7 +7,7 @@ stand: Geändert durch Art. 8z6 G v. 12.12.2023 I Nr. 359
 ausfertigung: '2020-11-04'
 quelle: https://www.gesetze-im-internet.de/ata-ota-aprv/
 doknr: BJNR229510020
-builddate: '20261030220014'
+builddate: '20261031220010'
 ---
 
 # Ausbildungs- und Prüfungsverordnung über die Ausbildung zur Anästhesietechnischen Assistentin und zum Anästhesietechnischen Assistenten und über die Ausbildung zur Operationstechnischen Assistentin und zum Operationstechnischen Assistenten (ATA-OTA-APrV)
@@ -368,12 +368,12 @@ Die oder der Vorsitzende hat das Recht, an den einzelnen Teilen der staatlichen 
 > (+++ § 25: Zur Geltung vgl. § 67 Abs. 3 +++)  
 > (+++ § 25: Zur Geltung vgl. § 94 +++)
 
-<!-- norm id="BJNE002700000" -->
+<!-- norm id="BJNE002701130" -->
 ##### § 26 Vornoten
 
 (1) Vor Beginn der staatlichen Prüfung setzt die oder der Vorsitzende des Prüfungsausschusses auf Vorschlag der Schule jeweils eine Vornote für den schriftlichen, den mündlichen und den praktischen Teil der staatlichen Prüfung fest. Grundlage der Festsetzung sind die Jahreszeugnisse nach § 8 Absatz 1.
 
-(2) Zur Festsetzung der Vornote für den schriftlichen Teil und den mündlichen Teil der staatlichen Prüfung ist jeweils das arithmetische Mittel aus den Zahlenwerten der drei Jahresnoten für den theoretischen und praktischen Unterricht zu berechnen. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 27 zuzuordnen. Die zugeordnete Note ist die Vornote für den schriftlichen Teil der staatlichen Prüfung.
+(2) Zur Festsetzung der Vornote für den schriftlichen Teil und den mündlichen Teil der staatlichen Prüfung ist jeweils das arithmetische Mittel aus den Zahlenwerten der drei Jahresnoten für den theoretischen und praktischen Unterricht zu berechnen. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 27 zuzuordnen. Die zugeordnete Note ist sowohl die Vornote für den schriftlichen Teil als auch für den mündlichen Teil der staatlichen Prüfung.
 
 (3) Zur Festsetzung der Vornote für den praktischen Teil der staatlichen Prüfung ist das arithmetische Mittel aus den Zahlenwerten der drei Jahresnoten für die praktischen Einsätze zu berechnen. Die Berechnung erfolgt auf zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert ist die entsprechende Note nach § 27 zuzuordnen. Die zugeordnete Note ist die Vornote für den praktischen Teil der staatlichen Prüfung.
 
@@ -940,13 +940,13 @@ Der mündliche Teil der Kenntnisprüfung wird von zwei Personen abgenommen, von 
 
 (2) Für die Wiederholung ist ein Antrag der Prüfungskandidatin oder des Prüfungskandidaten bei der oder dem Vorsitzenden des Prüfungsausschusses erforderlich.
 
-<!-- norm id="BJNE007500000" -->
+<!-- norm id="BJNE007501130" -->
 ##### § 74 Inhalt des praktischen Teils der Kenntnisprüfung
 
 (1) Der praktische Teil der Kenntnisprüfung besteht
 
 - 1\. im Fall einer Person, die die Erlaubnis zum Führen der Berufsbezeichnung Anästhesietechnische Assistentin oder Anästhesietechnischer Assistent beantragt hat, aus mindestens zwei und höchstens vier anästhesiologischen Situationen oder
-- 2\. im Fall einer Person, die das Führen der Berufsbezeichnung der Anästhesietechnischen Assistentin oder des Anästhesietechnischen Assistenten beantragt hat, aus mindestens zwei und höchstens vier operativen Situationen.
+- 2\. im Fall einer Person, die das Führen der Berufsbezeichnung der Operationstechnischen Assistentin oder des Operationstechnischen Assistenten beantragt hat, aus mindestens zwei und höchstens vier operativen Situationen.
 
 (2) Die zuständige Behörde legt die Anzahl der anästhesiologischen oder operativen Situationen, auf die sich die praktische Prüfung erstreckt, und die Kompetenzschwerpunkte der Anlagen 1 und 3 fest.
 
